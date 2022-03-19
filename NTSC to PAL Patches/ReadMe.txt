@@ -16,6 +16,7 @@ Battlezone - Rise of the Black Dogs (U) [!].z64
 Bottom of the 9th (U) [!].z64
 Brunswick Circuit Pro Bowling (U) [!].z64
 California Speed (U) [!].z64
+Conker's Bad Fur Day (U) [!]
 Dr. Mario 64 (U) [!].z64
 Elmo's Letter Adventure (U) [!].z64
 Elmo's Number Journey (U) [!].z64
