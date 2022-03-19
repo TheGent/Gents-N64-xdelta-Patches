@@ -21,9 +21,9 @@ Carnivale - Cenzo's Adventure (U) (Prototype).z64
 Dr. Mario 64 (U) [!].z64
 Elmo's Letter Adventure (U) [!].z64
 Elmo's Number Journey (U) [!].z64
-filenames.txt
 Fox Sports College Hoops '99 (U) [!].z64
 Golden Nugget 64 (U) [!].z64
+Harvest Moon 64 (U) [!].z64
 Indiana Jones and the Infernal Machine (U) [!].z64
 Indy Racing 2000 (U) [!].z64
 Jeopardy! (U) [!].z64
