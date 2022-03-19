@@ -61,6 +61,13 @@ WCW Backstage Assault (U) [!].z64
 WCW Nitro (U) [!].z64
 Wheel of Fortune (U) [!].z64
 
+---------------------------------
+Hacks
+-----
+
+The Legend Of Banjo Kazooie - The Jiggies Of Time (Hack)
+
+
 I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
 Emjoy!
 Gent
