@@ -65,8 +65,8 @@ Wheel of Fortune (U) [!].z64
 Hacks
 -----
 
-Banjo-Kazooie (USA).z64 to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack_2)
-The Legend Of Banjo Kazooie - The Jiggies Of Time (Hack) to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack)
+Banjo-Kazooie (USA).z64 to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack_2).z64
+The Legend Of Banjo Kazooie - The Jiggies Of Time (Hack).z64 to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack).z64
 
 I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
 Emjoy!
