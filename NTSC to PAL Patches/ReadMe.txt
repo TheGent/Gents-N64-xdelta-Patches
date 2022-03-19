@@ -65,7 +65,7 @@ Wheel of Fortune (U) [!].z64
 Hacks
 -----
 
-The Legend Of Banjo Kazooie - The Jiggies Of Time (Hack)
+The Legend Of Banjo Kazooie - The Jiggies Of Time (Hack).z64
 
 
 I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
