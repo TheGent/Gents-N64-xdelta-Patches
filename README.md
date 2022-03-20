@@ -12,6 +12,8 @@ GoodN64 2.02a can be found here - https://www.emutalk.net/threads/goodn64-2-02a.
 
 GoodGUI v0.97 or GoodGUIv1.4 a Front end to use with GoodN64 can be found here - https://www.emutalk.net/threads/goodgui-v0-97.29155/
 
+GoodGUI GoodN64 Interactive Tutorial can be found here - https://www.emutalk.net/threads/goodgui-goodn64-tutorial.28965/
+
 bin.zip is to be extracted to a subfolder /bin of your GoodN64 folder. It can be found here - https://www.emutalk.net/threads/bin-zip.12070/
 
 These tools will scan and rename your collection into "Knowmn Good Roms" to use with my patches. If they are Prototypes, Unreleased games and unknowm to GoodN64, I will make sure the correct names and format are displayed for correct use!
