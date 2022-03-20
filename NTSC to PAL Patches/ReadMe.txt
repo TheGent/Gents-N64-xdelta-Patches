@@ -67,6 +67,7 @@ Hacks
 
 Banjo-Kazooie (USA).z64 to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack_2)
 The Legend Of Banjo Kazooie - The Jiggies Of Time (Hack) to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack)
+Legend of Zelda, The - Ocarina of Time (USA).z64 - The Legend of Zelda - Master of Time (PAL60) (Hack).z64
 
 I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
 Emjoy!
