@@ -49,6 +49,8 @@ Elmo's Letter Adventure (U) [!].z64
 
 Elmo's Number Journey (U) [!].z64
 
+Freak Boy (Unreleased Alpha) - CARROT.z64
+
 Fox Sports College Hoops '99 (U) [!].z64
 
 Golden Nugget 64 (U) [!].z64
@@ -138,6 +140,8 @@ Banjo-Kazooie (USA).z64 to The Legend Of Banjo Kazooie.z64 - The Jiggies Of Time
 The Legend Of Banjo Kazooie.z64 - The Jiggies Of Time (Hack) to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack).z64
 
 Legend of Zelda, The - Ocarina of Time (USA).z64 - The Legend of Zelda - Master of Time (PAL60) (Hack).z64
+
+Freak Boy (Unreleased Alpha) - CARROT.z64 - Freak Boy (Unreleased Alpha) (E) (NTSC-PAL).z64
 
 I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
 Emjoy!
