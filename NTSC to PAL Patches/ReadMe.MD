@@ -83,6 +83,8 @@ Monopoly (U) [!].z64
 
 Ms. Pac-Man - Maze Madness (U) [!].z64
 
+Namco Museum 64 (U) [!].z64
+
 NASCAR 2000 (U) [!].z64
 
 NBA Courtside 2 - Featuring Kobe Bryant (U) [!].z64
