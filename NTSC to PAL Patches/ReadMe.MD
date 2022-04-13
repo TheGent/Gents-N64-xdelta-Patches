@@ -1,4 +1,4 @@
-NTSC - PAL Converted Patches for USA Exclusive Game Releases.
+# NTSC - PAL Converted Patches for USA Exclusive Game Releases.
 
 Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and for ease of use [xdeltaUI](https://www.romhacking.net/utilities/598/) The Windows FrontEnd.
 
