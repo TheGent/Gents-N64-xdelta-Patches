@@ -4,11 +4,11 @@ Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and
 
 Make sure your Games are the correct name and file type before patching!
 
-Please check the ReadMe.txt in that section for further information.
+Please check the ReadMe in that section for further information.
 
 Also please make sure you use a GoodN64 scanned collection to avoid miss matches.
 
-[GoodN64 2.02a](https://www.emutalk.net/threads/goodn64-2-02a.12068/), [GoodGUI v0.97 or GoodGUIv1.4](https://www.emutalk.net/threads/goodgui-v0-97.29155/) a Front end to use with GoodN64 and [bin.zip](https://www.emutalk.net/threads/bin-zip.12070/) is to be extracted to a subfolder /bin of your GoodN64 folder.
+[GoodN64 2.02a](https://www.emutalk.net/threads/goodn64-2-02a.12068/), [GoodGUI v0.97 or GoodGUIv1.4](https://www.emutalk.net/threads/goodgui-v0-97.29155/) a Front end to use with GoodN64 and [bin.zip](https://www.emutalk.net/threads/bin-zip.12070/) are to be extracted to a subfolder /bin of your GoodN64 folder.
 
 Also availble is [GoodGUI GoodN64 Interactive Tutorial](https://www.emutalk.net/threads/goodgui-goodn64-tutorial.28965/) if needed.
 
