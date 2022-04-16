@@ -20,5 +20,5 @@ Below are a list of the games correct names and format extention to be used with
 Conker's Bad Fur Day (U) [!] (This will create Conker's Bad Fur Day (U) (Uncensored).z64)
 
 I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
-Emjoy!
+Enjoy!
 Gent
