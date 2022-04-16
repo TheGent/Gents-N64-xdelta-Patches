@@ -16,7 +16,7 @@ Make sure your Games are the correct name and file type before patching!
 
 Below are a list of the games correct names and format extention to be used with this package:
 
-Conker's Bad Fur Day (U) [!] (This will create Conker's Bad Fur Day (U) (Uncensored).z64)
+Conker's Bad Fur Day (U) [!].z64 - Conker's Bad Fur Day (U) (Uncensored).z64)
 
 I hope you enjoy playing these games on the RetroBlaster via your Console as much i did.
 Enjoy!
