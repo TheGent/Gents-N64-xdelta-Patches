@@ -23,6 +23,10 @@ Unreleased Prototypes, Betas, & Alphas for Emulator and FlashCart use
 
 -----
 
+Dragon Sword 64 (Europe) (Proto).z64 - Dragon Sword 64 (Europe) (Proto) [f1].z64
+
+// This is a By Pass Game Note Creation Game Fix 
+
 Turok 3 - Shadow of Oblivion (USA) (Beta).z64 - Turok 3 - Shadow of Oblivion (USA) (Beta) [f1].z64
 
 The original patched version does not work on either Flashcart or emulator, this fixes that issue.
