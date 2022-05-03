@@ -31,5 +31,7 @@ Turok 3 - Shadow of Oblivion (USA) (Beta).z64 - Turok 3 - Shadow of Oblivion (US
 
 Turok 3 - Shadow of Oblivion (U) (Beta-WIP).z64 - Turok 3 - Shadow of Oblivion (U) (Beta-WIP) [f1].z64
 
+Turok 3 - Shadow of Oblivion (U) (Beta).z64 - Turok 3 - Shadow of Oblivion (U) (Beta) [f1].z64
+
 The original patched version does not work on either Flashcart or emulator, this fixes that issue.
 Enjoy!
