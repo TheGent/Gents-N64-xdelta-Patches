@@ -1,4 +1,4 @@
-# Bad2Good Patches & Bad2Good Region Converts.
+# iQue Bad2Good Patches & Bad2Good Region Converts.
 
 Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and for ease of use [xdeltaUI](https://www.romhacking.net/utilities/598/) The Windows FrontEnd.
 
