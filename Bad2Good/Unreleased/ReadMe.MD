@@ -23,6 +23,10 @@ Unreleased Prototypes, Betas, & Alphas for Emulator and FlashCart use
 
 -----
 
+007 - The World Is Not Enough (U) (Prototype - 2020 release).z64 - 007 - The World Is Not Enough (U) (Prototype - 2020 release) [f1].64
+
+// This fixes being stuck at the password screen, and continues to the start screen. A really big thank you to Parasyte for his invaluable assists on this, it would not have been possible without him.
+
 Dragon Sword 64 (Europe) (Proto).z64 - Dragon Sword 64 (Europe) (Proto) [f1].z64
 
 // This is a By Pass Game Note Creation Game Fix 
