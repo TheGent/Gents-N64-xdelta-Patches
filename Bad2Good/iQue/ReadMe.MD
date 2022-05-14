@@ -23,6 +23,12 @@ iQue Patched for Emulator and FlashCart use
 
 -----
 
+The Legend of Zelda Ocarina of Time (CHN).z64 - The Legend of Zelda Ocarina of Time (CHN) [SaveFix].z64
+
+The Legend of Zelda Ocarina of Time (CHN).z64 - The Legend of Zelda Ocarina of Time (CHN) (PAL) [SaveFix].z64
+
+// This restores the saving function to the game. A really big thank you to both nekokabu & Parasyte for their invaluable help in creating this, it would not have been possible without them.
+
 Paper Mario (CHN).z64 - Paper Mario (CHN) [f1].z64
 
 Paper Mario (CHN).z64 - Paper Mario (CHN) (PAL) [f1].z64
