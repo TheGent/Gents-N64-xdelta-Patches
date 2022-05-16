@@ -19,7 +19,9 @@ Below are a list of the games correct names and format extention to be used with
 
 007 - The World Is Not Enough (U) (Prototype - 2020 release).z64 - 007 - The World Is Not Enough (E) (Prototype - 2020 release) [f1] [NTSC-Convert].z64
 
-// This takes the original (U) Prototype - 2020 release file and creates The Passowrd bypass [f1] PAL Version
+// This takes the original (U) Prototype - 2020 release file and creates The Password bypass [f1] PAL Version
+
+007 - The World is Not Enough (U) (Prototype).z64 - 007 - The World is Not Enough (E) (Prototype) [NTSC-Convert].z64
 
 All-Star Baseball 2001 (U) [!].z64
 
