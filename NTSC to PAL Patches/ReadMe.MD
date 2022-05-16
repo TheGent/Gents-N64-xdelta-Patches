@@ -17,6 +17,10 @@ Make sure your Games are the correct name and file type before patching!
 
 Below are a list of the games correct names and format extention to be used with this package:
 
+007 - The World Is Not Enough (U) (Prototype - 2020 release).z64 - 007 - The World Is Not Enough (E) (Prototype - 2020 release) [f1] [NTSC-Convert].z64
+
+// This takes the original (U) Prototype - 2020 release file and creates The Passowrd bypass [f1] PAL Version
+
 All-Star Baseball 2001 (U) [!].z64
 
 Army Men - Air Combat (U) [!].z64
