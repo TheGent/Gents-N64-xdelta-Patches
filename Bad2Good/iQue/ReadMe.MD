@@ -35,5 +35,9 @@ Paper Mario (CHN).z64 - Paper Mario (CHN) (PAL) [f1].z64
 
 Yoshi's Story (CHN).z64 - Yoshi's Story (CHN) [f1].z64
 
-The original patched version does not work on either Flashcart or emulator, this fixes that issue.
+Yoshi's Story (CHN).z64 - Yoshi's Story (CHN) [f2].z64
+
+// Yoshi's Story (CHN) [f2] is in case your version does not work with [f1]). It must still be named Yoshi's Story (CHN).z64 though.
+
+The original patched version of Paper Mario (CHN) & Yoshi's Story (CHN) do not work on either Flashcart or emulator, this fixes that issue.
 Enjoy!
