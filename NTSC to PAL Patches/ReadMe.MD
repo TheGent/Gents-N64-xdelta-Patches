@@ -15,6 +15,8 @@ These tools will scan and rename your collection into "Known Good Roms" to use w
 These patches are for the USA Exclusive Games Converted to PAL Region for Our European Retrobalster users to enjoy!
 Make sure your Games are the correct name and file type before patching!
 
+Note: If anyone is experiencing issues with my patches and the newer versions of the Retro Stage's [N64 Blaster 2.0)(https://retrostage.net/?product=n64-blaster-2-0) because of the Automatic CIC, Region, I advise either using the [old version with the dip switches](https://web.archive.org/web/20210622192800/https://retrostage.net/?product=n64-blaster-2-0)  or using Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and clone flashing method.
+
 Below are a list of the games correct names and format extention to be used with this package:
 
 007 - The World Is Not Enough (U) (Prototype - 2020 release).z64 - 007 - The World Is Not Enough (E) (Prototype - 2020 release) [f1] [NTSC-Convert].z64
@@ -141,7 +143,9 @@ Hacks
 
 -----
 
-Banjo-Kazooie (USA).z64 to The Legend Of Banjo Kazooie.z64 - The Jiggies Of Time (E) [NTSC-PAL] (Hack_2).64
+Banjo-Kazooie (USA).z64 to The Legend Of Banjo Kazooie.z64 - The Jiggies Of Time (E) [NTSC-PAL] (Hack_2).z64
+
+Banjo-Kazooie (USA).z64 to Banjo-Kazooie - Stay At Home (E) v1.9  [NTSC-Convert].z64
 
 The Legend Of Banjo Kazooie.z64 - The Jiggies Of Time (Hack) to The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack).z64
 
