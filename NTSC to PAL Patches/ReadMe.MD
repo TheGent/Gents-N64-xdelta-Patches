@@ -149,5 +149,5 @@ Legend of Zelda, The - Ocarina of Time (USA).z64 - The Legend of Zelda - Master 
 
 Freak Boy (Unreleased Alpha) - CARROT.z64 - Freak Boy (Unreleased Alpha) (E) (NTSC-PAL).z64
 
-I hope you enjoy playing these games on the RetroBlaster via your PAL Console as much i did.
+I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
 Enjoy!
