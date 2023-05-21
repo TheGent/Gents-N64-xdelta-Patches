@@ -16,6 +16,9 @@ Make sure your Games are the correct name and file type before patching!
 
 Note: If anyone is experiencing issues with my patches and the newer versions of the Retro Stage's [N64 Blaster 2.0](https://retrostage.net/?product=n64-blaster-2-0) because of the Automatic CIC, Region, I advise either using the [old version with the dip switches](https://web.archive.org/web/20210622192800/https://retrostage.net/?product=n64-blaster-2-0)  or using Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and clone flashing method.
 
+Please also be advised that iof you intend to use games with FlashRam saves, the N64 Blaster really is not suitable for this as it has no FlashRam support. Instead i advise using another product that does like the Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher).
+
+
 Below are a list of the games correct names and format extention to be used with this package:
 
 

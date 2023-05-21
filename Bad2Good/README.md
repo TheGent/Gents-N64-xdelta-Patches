@@ -13,3 +13,5 @@ Also please make sure you use a GoodN64 scanned collection to avoid miss matches
 These tools will scan and rename your collection into "Known Good Roms" to use with my patches. If they are Prototypes, Unreleased games and unknowm to GoodN64, I will make sure the correct names and format are displayed for correct use!
 
 Note: If anyone is experiencing issues with my patches and the newer versions of the Retro Stage's [N64 Blaster 2.0](https://retrostage.net/?product=n64-blaster-2-0) because of the Automatic CIC, Region, I advise either using the [old version with the dip switches](https://web.archive.org/web/20210622192800/https://retrostage.net/?product=n64-blaster-2-0)  or using Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and clone flashing method.
+
+Please also be advised that iof you intend to use games with FlashRam saves, the N64 Blaster really is not suitable for this as it has no FlashRam support. Instead i advise using another product that does like the Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher).
