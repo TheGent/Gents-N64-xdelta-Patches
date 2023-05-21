@@ -49,10 +49,32 @@ BLAKE2sp: a2cb160f5b316b68187a219c3e5cab320cf3fcac24e43bec45e65af229ad3201
 </p>
 
 // This fixes being stuck at the password screen, and continues to the start screen. A really big thank you to Parasyte for his invaluable assist on this, it would not have been possible without him.
+<br>
+</br>
 
-Dragon Sword 64 (Europe) (Proto).z64 - Dragon Sword 64 (Europe) (Proto) [f1].z64
+Name: Dragon Sword 64 (Europe) (Proto).z64
 
+Size: 33554432 bytes (32 MiB)
+
+CRC32: 55DED416
+
+CRC64: 53AAAEDBC4F2C4FB
+
+SHA256: 8a498dc20583268d9d2406b36ab4765fe7e87fb25f4548d167ce2cf0a41707ad
+
+SHA1: e7827a1d0f3e7d222ecab414c260d185f9ef9749
+BLAKE2sp: 51c5bc9ba287c9b7a11140a6a2167349ecfe900d6d7461e01f9471f1d76066a3
+
+// This takes the original (E) release file and creates the following below
+
+//Dragon Sword 64 (Europe) (Proto) [f1].z64
+//Dragon Sword 64 (Europe) (Proto) [f1] [PAL-NTSC].z64
+
+<p>
+</p>
 // This is a By Pass Game Note Creation Game Fix 
+<br>
+</br>
 
 Turok 3 - Shadow of Oblivion (USA) (Beta).z64 - Turok 3 - Shadow of Oblivion (USA) (Beta) [f1].z64
 
