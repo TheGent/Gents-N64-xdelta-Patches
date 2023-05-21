@@ -18,8 +18,6 @@ Note: If anyone is experiencing issues with my patches and the newer versions of
 
 Below are a list of the games correct names and format extention to be used with this package:
 
-<br>
-</br>
 
 Name: Conker's Bad Fur Day (U) [!].z64
 
