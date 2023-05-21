@@ -76,11 +76,31 @@ BLAKE2sp: 51c5bc9ba287c9b7a11140a6a2167349ecfe900d6d7461e01f9471f1d76066a3
 <br>
 </br>
 
-Turok 3 - Shadow of Oblivion (USA) (Beta).z64 - Turok 3 - Shadow of Oblivion (USA) (Beta) [f1].z64
+Name: Turok 3 - Shadow of Oblivion (U) [!].z64
 
-Turok 3 - Shadow of Oblivion (U) (Beta-WIP).z64 - Turok 3 - Shadow of Oblivion (U) (Beta-WIP) [f1].z64
+Size: 33554432 bytes (32 MiB)
 
-Turok 3 - Shadow of Oblivion (U) (Beta).z64 - Turok 3 - Shadow of Oblivion (U) (Beta) [f1].z64
+CRC32: CB297224
 
-The original patched version does not work on either Flashcart or emulator, this fixes that issue.
+CRC64: 6F19A3EA12DD27EF
+
+SHA256: 9ac5a8049d6c0dce16fd0ac2898fb42fec42455ca8497d3244de215df1e6e096
+
+SHA1: a2e0a28dc0d3a48c7c02cb9e4c4b38fe04b2d436
+
+BLAKE2sp: 2a15f89af479e47b2b29047fd77149b011581ca214a83d4148c259acbebda39d
+
+// This takes the original (E) release file and creates the following below
+
+//Turok 3 - Shadow of Oblivion (USA) (Beta) [f1].z64
+
+//Turok 3 - Shadow of Oblivion (U) (Beta-WIP) [f1].z64
+
+//Turok 3 - Shadow of Oblivion (U) (Beta) [f1].z64
+
+<p>
+</p>
+The original versions does not work on either Flashcart or emulator, this fixes that issue.
+<p>
+</p>
 Enjoy!
