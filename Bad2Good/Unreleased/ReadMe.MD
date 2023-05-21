@@ -25,7 +25,28 @@ Unreleased Prototypes, Betas, & Alphas for Emulator and FlashCart use
 
 -----
 
-007 - The World Is Not Enough (U) (Prototype - 2020 release).z64 - 007 - The World Is Not Enough (U) (Prototype - 2020 release) [f1].64
+Name: 007 - The World is Not Enough (U) [!].z64
+
+Size: 33554432 bytes (32 MiB)
+
+CRC32: 26360987
+
+CRC64: 12AF5E49FACC76C1
+
+SHA256: 72e3e7b4ff1615bc17336d3d10e18aa9342898db063ace68922a47f5e46c48b1
+
+SHA1: d347159808f0374a93cf44cfb6135d8f56279f7b
+
+BLAKE2sp: a2cb160f5b316b68187a219c3e5cab320cf3fcac24e43bec45e65af229ad3201
+
+// This takes the original (U) release file and creates the following below
+
+//007 - The World Is Not Enough (U) (Prototype - 2020 release) [f1].z64 (The Password bypass [f1] Version)
+
+//007 - The World Is Not Enough (E) (Prototype - 2020 release) [f1] [NTSC-PAL].z64 (The Password bypass [f1] PAL Version)
+
+<p>
+</p>
 
 // This fixes being stuck at the password screen, and continues to the start screen. A really big thank you to Parasyte for his invaluable assist on this, it would not have been possible without him.
 
