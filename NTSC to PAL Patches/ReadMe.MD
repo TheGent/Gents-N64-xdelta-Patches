@@ -23,11 +23,17 @@ If the game also has a / AKA Name, rename the file to the first listed one!
 
 
 Name: All-Star Baseball 2001 (U) [!].z64
+
 Size: 16777216 bytes (16 MiB)
+
 CRC32: 4D659E85
+
 CRC64: 10EE96821C4D16F1
+
 SHA256: 35313f399fd98072bd7dd22d98814bb2b5e49aadcc654b51d558b639c438f144
+
 SHA1: 4f1b8635322190bb3d0c6fc7d3ba844941f05574
+
 BLAKE2sp: c17e8710003293c91ae4fcc455a7bf5cd945d325d81709f68021b5a0154f072f
 
 
