@@ -1057,44 +1057,32 @@ Prototypes
 -----
 
 
-Name: 007 - The World Is Not Enough (U) (Prototype - 2020 release).z64 / (AKA - 007 - The World Is Not Enough (USA) (v2) (Beta)
-
-Size: 16777216 bytes (16 MiB)
-
-CRC32: 6C180FEF
-
-CRC64: 46CF07C5DF9DD9AF
-
-SHA256: 5ab4affb162e2b4172ed0bbc766641b3f17417fd3619d2a048d8720d726edb87
-
-SHA1: 376042ddedfd4f738786500531d67d5c299577be
-
-BLAKE2sp: f824a1ed6e23eb6efede80623141d2207fdec7dfff6beb84564086070a5d92c9
-
-
-// This takes the original (U) Prototype - 2020 release file and creates The Password bypass [f1] PAL Version
-
-<p>
-</p>
-The rest listed below, take the original (U) release files and creates the PAL Versions
-<br>
-</br>
-
-Name: 007 - The World is Not Enough (U) (Prototype).z64  / AKA - 007 - The World Is Not Enough (USA) (v21) (Beta)
+Name: 007 - The World is Not Enough (U) [!].z64
 
 Size: 33554432 bytes (32 MiB)
 
-CRC32: F0B6BF59
+CRC32: 26360987
 
-CRC64: 7795DB0D93974574
+CRC64: 12AF5E49FACC76C1
 
-SHA256: 1cd43fbe6ff06d7b326297824d3458c46014517096ba0c08e9edfab75639bbfa
+SHA256: 72e3e7b4ff1615bc17336d3d10e18aa9342898db063ace68922a47f5e46c48b1
 
-SHA1: 53c6de60383517f38d27e449d47bced319f8e87a
+SHA1: d347159808f0374a93cf44cfb6135d8f56279f7b
 
-BLAKE2sp: efe510f6c70e346de0e091e6b1d1cb4973adc2c30e510f4c911b8acc38c2a38f
+BLAKE2sp: a2cb160f5b316b68187a219c3e5cab320cf3fcac24e43bec45e65af229ad3201
+
+// This takes the original (U) release file and creates the following below
+
+//007 - The World is Not Enough (U) (Prototype).z64
+
+//007 - The World is Not Enough (E) (Prototype) [NTSC-PAL].z64
+<p>
+</p>
+
+The rest listed below, take the original (U) release files and creates the NTSC & [NTSC-PAL] (Prototype) Versions
 <br>
 </br>
+
 
 Name: Carnivale - Cenzo's Adventure (USA) (Prototype) .z64 / AKA - Carnivalé: Cenzo's Adventure (Jul 21, 2000 prototype).z64
 
