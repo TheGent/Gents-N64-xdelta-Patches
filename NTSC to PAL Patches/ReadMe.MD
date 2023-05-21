@@ -233,7 +233,7 @@ BLAKE2sp: 4283c50d45b40436a314f518595e3cba4206aa0124e1e2cf925965e95aa721d8
 <br>
 </br>
 
-ame: Elmo's Letter Adventure (U) [!].z64
+Name: Elmo's Letter Adventure (U) [!].z64
 
 Size: 8388608 bytes (8192 KiB)
 
