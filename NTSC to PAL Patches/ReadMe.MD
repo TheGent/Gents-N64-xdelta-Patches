@@ -1069,7 +1069,8 @@ BLAKE2sp: f824a1ed6e23eb6efede80623141d2207fdec7dfff6beb84564086070a5d92c9
 
 // This takes the original (U) Prototype - 2020 release file and creates The Password bypass [f1] PAL Version
 
-
+<p>
+</p>
 The rest listed below, take the original (U) release files and creates the PAL Versions
 <br>
 </br>
@@ -1122,5 +1123,6 @@ BLAKE2sp: dedcc4643a2417bd000e21dd2c55010f115087b835b6693da06574982cbe20e9
 <br>
 </br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
-</br>
+<p>
+</p>
 Enjoy!
