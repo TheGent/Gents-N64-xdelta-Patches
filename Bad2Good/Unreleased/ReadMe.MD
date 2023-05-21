@@ -90,13 +90,16 @@ SHA1: a2e0a28dc0d3a48c7c02cb9e4c4b38fe04b2d436
 
 BLAKE2sp: 2a15f89af479e47b2b29047fd77149b011581ca214a83d4148c259acbebda39d
 
-// This takes the original (E) release file and creates the following below
+// This takes the original (G) although for some reason released as (U) and (USA) release files and creates the following below
 
 //Turok 3 - Shadow of Oblivion (USA) (Beta) [f1].z64
+//Turok 3 - Shadow of Oblivion (USA) (Beta) [f1] [PAL-NTSC].z64
 
 //Turok 3 - Shadow of Oblivion (U) (Beta-WIP) [f1].z64
+//Turok 3 - Shadow of Oblivion (U) (Beta-WIP) [f1] [PAL-NTSC].z64
 
 //Turok 3 - Shadow of Oblivion (U) (Beta) [f1].z64
+//Turok 3 - Shadow of Oblivion (U) (Beta) [f1] [PAL-NTSC].z64
 
 <p>
 </p>
