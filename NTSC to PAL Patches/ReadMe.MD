@@ -87,19 +87,22 @@ BLAKE2sp: 14f2957c5beee547eaf1974e8c414479695872e2905f94a6b8d5beff8c804b7e
 <br>
 </br>
 
-Name: Banjo-Tooie (U) [f1] (Flashcart).z64
+Name: Banjo-Tooie (U) [!].z64
 
 Size: 33554432 bytes (32 MiB)
 
-CRC32: 1B66DEEC
+CRC32: BAB803EF
 
-CRC64: CEA8845B95A3AFF5
+CRC64: D62D0C56DB03E206
 
-SHA256: a97d50f6dd9e5b85316341564d7fc29e1a6ac56972e01a17349e38779919f6d6
+SHA256: 9ec37fba6890362eba86fb855697a9cff1519275531b172083a1a6a045483583
 
-SHA1: 0a514683432cfe7839f197ef3a09b6bfeedfd183
+SHA1: af1a89e12b638b8d82cc4c085c8e01d4cba03fb3
 
-BLAKE2sp: 631dc12b3a7aff910ebaf8b96e8708ab711fc99e73a6bba6cc4e6b5c437b7c02
+BLAKE2sp: 8e6cdd409f2e0a642f331bf89f1cff665677995d98c9a8e267335b7afb86d73f
+
+// This takes the original (U) release file and creates Banjo-Tooie (E) [f1] (Flashcart).z64
+
 <br>
 </br>
 
@@ -361,19 +364,21 @@ BLAKE2sp: 092a083dbc5d61a3d78e4ddd394a074946bb458d3e2ef442da2d77c916c5b371
 <br>
 </br>
 
-Name: Jet Force Gemini (U) [f1].z64
+Name: Jet Force Gemini (U) [!].z64
 
 Size: 33554432 bytes (32 MiB)
 
-CRC32: 83F0CD60
+CRC32: 6753D5A3
 
-CRC64: C9B13B54337B8E1E
+CRC64: 206E153308D90551
 
-SHA256: c02d2a94ea720f790573853649f9453e2b6a4145a5bbf76945556c40cedcf7c0
+SHA256: 159dde164c475976a3e527fbb20978431d4765f2c63019b3530c3aa8772595aa
 
-SHA1: 8b96748ac1391e94dff1014d2a9eb25a81580f8b
+SHA1: 493ced9008dbe932d6e91179b68e8630cf23a023
 
-BLAKE2sp: c864bc1e59aaedb2ada1c6de7145e62415854457fabdea493dcd89e824156c5a
+BLAKE2sp: 411b1abfb3933a9be18d7ced6266264504256246b6ca42718817e84a59f012ad
+
+// This takes the original (U) release file and creates Jet Force Gemini (E) [f1] (Flashcart).z64
 <br>
 </br>
 
