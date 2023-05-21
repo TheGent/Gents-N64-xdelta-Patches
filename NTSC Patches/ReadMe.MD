@@ -18,8 +18,29 @@ Note: If anyone is experiencing issues with my patches and the newer versions of
 
 Below are a list of the games correct names and format extention to be used with this package:
 
-Conker's Bad Fur Day (U) [!].z64 - Conker's Bad Fur Day (U) (Uncensored).z64)
+<br>
+</br>
+
+Name: Conker's Bad Fur Day (U) [!].z64
+
+Size: 67108864 bytes (64 MiB)
+
+CRC32: CE8CC172
+
+CRC64: 0AB4626F770D09B3
+
+SHA256: 32e6a8b970ec12ac5f782344945aa0c98a193832eefb687529d03bab6948714b
+
+SHA1: 4cbadd3c4e0729dec46af64ad018050eada4f47a
+
+BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
+
+// This takes the original (U) release file and creates Conker's Bad Fur Day (U) (Uncensored).z64)
+<br>
+</br>
+
 
 I hope you enjoy playing these games on your Flashcrat via your Console as much i did.
+<p>
+</p>
 Enjoy!
-Gent
