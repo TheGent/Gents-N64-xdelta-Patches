@@ -15,7 +15,7 @@ These tools will scan and rename your collection into "Known Good Roms" to use w
 These patches are for the USA Exclusive Games Converted to PAL Region for European users to enjoy!
 Make sure your Games are the correct name and file type before patching!
 
-Note: If anyone is experiencing issues with my patches and the newer versions of the Retro Stage's [N64 Blaster 2.0)(https://retrostage.net/?product=n64-blaster-2-0) because of the Automatic CIC, Region, I advise either using the [old version with the dip switches](https://web.archive.org/web/20210622192800/https://retrostage.net/?product=n64-blaster-2-0)  or using Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and clone flashing method.
+Note: If anyone is experiencing issues with my patches and the newer versions of the Retro Stage's [N64 Blaster 2.0](https://retrostage.net/?product=n64-blaster-2-0) because of the Automatic CIC, Region, I advise either using the [old version with the dip switches](https://web.archive.org/web/20210622192800/https://retrostage.net/?product=n64-blaster-2-0)  or using Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and clone flashing method.
 
 Below are a list of the games correct names and format extention to be used with this package:
 
@@ -35,8 +35,7 @@ SHA256: 35313f399fd98072bd7dd22d98814bb2b5e49aadcc654b51d558b639c438f144
 SHA1: 4f1b8635322190bb3d0c6fc7d3ba844941f05574
 
 BLAKE2sp: c17e8710003293c91ae4fcc455a7bf5cd945d325d81709f68021b5a0154f072f
-<p<br />
-</p>
+
 
 Name: Army Men - Air Combat (U) [!].z64
 
@@ -1057,7 +1056,6 @@ SHA256: e22a3dcc9d4b735698c93ae2ca85572550f303521908fa4c4ef3c74921777223
 SHA1: 9326914cd8271e220d6289837f8780f63f98ef30
 
 BLAKE2sp: dedcc4643a2417bd000e21dd2c55010f115087b835b6693da06574982cbe20e9
-
 
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
 Enjoy!
