@@ -17,6 +17,7 @@ Make sure your Games are the correct name and file type before patching!
 
 Note: If anyone is experiencing issues with my patches and the newer versions of the Retro Stage's [N64 Blaster 2.0](https://retrostage.net/?product=n64-blaster-2-0) because of the Automatic CIC, Region, I advise either using the [old version with the dip switches](https://web.archive.org/web/20210622192800/https://retrostage.net/?product=n64-blaster-2-0)  or using Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and clone flashing method.
 
+
 Please also be advised that iof you intend to use games with FlashRam saves, the N64 Blaster really is not suitable for this as it has no FlashRam support. Instead i advise using another product that does like the Benn Venns excellent [JoeyN64 cart flasher](https://bennvenn.myshopify.com/products/joeyn64-cart-flasher).
 
 Below are a list of the games correct names and format extention to be used with this package:
@@ -156,6 +157,38 @@ BLAKE2sp: 92a9aae1281c7a0ebe6896a5de74a7aaf6df535f1b37bb9d219d0c74997443a1
 <br>
 </br>
 
+Name: Big Mountain 2000 (U) [!].z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: 3AC924BC
+
+CRC64: E49C42A761E62234
+
+SHA256: d42bf9fd1a49daff13a4626196b2fc5f3d8af27b607ce7eabfec0addaec7abee
+
+SHA1: e28f3ebfb7bc706cce639fc1874243e1d4995d1d
+
+BLAKE2sp: e5ea391a9dd3f381a540295a539ba35e7f8853eec712290009a8388a40f4932d
+<br>
+</br>
+
+Name: Bomberman 64 - The Second Attack! (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: 57550007
+
+CRC64: 26454A526C67B7B9
+
+SHA256: 96f641120471a1d5dab848dffdeeeeb7c4002333a06763ae20e14af72126efd8
+
+SHA1: 66b1fd763793ecc6e03aa6c5d023df8de5351b9e
+
+BLAKE2sp: bd00680a28ef14a2d71b014f5d41ab4f04d07d04ef6d43df688d4a4a611fd6a9
+<br>
+</br>
+
 Name: Bottom of the 9th (U) [!].z64
 
 Size: 16777216 bytes (16 MiB)
@@ -270,6 +303,23 @@ BLAKE2sp: 3a150d14ca75efe8157f4a9a3dcf658ec4f6583dba6cbb36e3dd7c257e09659d
 <br>
 </br>
 
+Name: Fighter Destiny 2 (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: BB2563C6
+
+CRC64: 3C2C667E654B7992
+
+SHA256: f38166f6d8ef4f04fc698cd8c4885b84622e4eb58f0aefca47b95af1eb7c3c6d
+
+SHA1: 1dc12cfd908f56debcad6cf582bfdfc23a3ad725
+
+BLAKE2sp: e5a23875d974c4552561f6de9abc76d62d31864d732dc5bf372827cf57e0aab4
+<br>
+</br>
+
+
 Name: Fox Sports College Hoops '99 (U) [!].z64
 
 Size: 12582912 bytes (12 MiB)
@@ -315,6 +365,22 @@ SHA256: 15c570120bfaa97b4580762f5ee5939a56ba054e696925ea81ccfa55a022d2a6
 SHA1: 90631460f1876a14849df0541d534012b410a34c
 
 BLAKE2sp: ce7cc2c9bbc33ab22d301eb04ec202932f73e31224137c4d98aee19c2f4b6ae8
+<br>
+</br>
+
+Name: Hey You, Pikachu! (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: B18B2734
+
+CRC64: A2A83C6118A3F880
+
+SHA256: 9a255c6d36177283f1a72e3b2d57750b70f6c0f13c361fd60ae8545ab04aca43
+
+SHA1: da1a1e47a86720f9d54fb2d2d247480041bda824
+
+BLAKE2sp: f7d9bb542f249b312952eb2dc146141f48ae916a675750015c6417cead278fc6
 <br>
 </br>
 
@@ -688,6 +754,22 @@ BLAKE2sp: d2e97ac14700622c109823d284d882ada931a939acbb166aacaeb386d60514f7
 <br>
 </br>
 
+Name: Ogre Battle 64 - Person of Lordly Caliber (U) (V1.0) [!].z64
+
+Size: 41943040 bytes (40 MiB)
+
+CRC32: A05AEA85
+
+CRC64: 7ECA3A5596CBD222
+
+SHA256: 571e83396bc81e70da4c0a20313d82dbd7dfe685f2c37418c8e27f927e2cc67a
+
+SHA1: 9cd0cfb50b883edb068e0c30d213193b9cf89895
+
+BLAKE2sp: 87d99e2b1e7234615704a5bfdaacf4f38fe5e1abcf3c12b5182bbd18d4c1b89f
+<br>
+</br>
+
 Name: Polaris SnoCross (U) [!].z64
 
 Size: 12582912 bytes (12 MiB)
@@ -717,6 +799,22 @@ SHA256: 4f0b777a71734e59a3fddce59f98661cba4ef653e0c4b1828b5891fd9814d160
 SHA1: 88e2032997cb884af31a7380fabac0d0a5360892
 
 BLAKE2sp: 009b0155be11f19be304a1a04db19df909aa12fd003eec198c8bdff39f71e64f
+<br>
+</br>
+
+Name: Rally Challenge 2000 (U) [!].z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: 3EDEC7B0
+
+CRC64: 1A665D0DFED9A8F0
+
+SHA256: 60681b4ff96742f6e4d77043cf37f8f22d73bdc257c2605be41283de96c88db3
+
+SHA1: d42fd8de45755cd70a4d4c252cc1873410db9f3e
+
+BLAKE2sp: c005b47797c813d3b8eba970b982469fd6ce5de4795fc790f612cd84ae690547
 <br>
 </br>
 
@@ -752,6 +850,22 @@ BLAKE2sp: b6cdeb85f1891afb6133008b9ab9b3a662cedf238e113dfad60e3e030b57a5ed
 <br>
 </br>
 
+Name: Sin and Punishment - Successor of the Earth (U) [!].z64
+
+Size: 33554432 bytes (32 MiB)
+
+CRC32: 5A6B6713
+
+CRC64: 87C20F3B42706405
+
+SHA256: 370aa5f52c8ec19ea50a8c400b00c024d2054d070f3df029538fadee280e4d1d
+
+SHA1: 5945ff3935d9d9531bbb5cfcabed7c198e2b2f41
+
+BLAKE2sp: 91c90b41cf042aefd76e43d8cdb15c1c7708431e9b1ca7fa13a0ff9e9019ad38
+<br>
+</br>
+
 Name: Space Invaders (U) [!].z64
 
 Size: 8388608 bytes (8192 KiB)
@@ -784,6 +898,22 @@ BLAKE2sp: 3007dc061eae2d5f13f68a9f67117e5c2b8c6822f274d0efaa41025252df8c43
 <br>
 </br>
 
+Name: Star Soldier - Vanishing Earth (U) [!].z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: EA650DEF
+
+CRC64: 3197D82AEE2630CB
+
+SHA256: e80af976102089a2f1ed401b74f8082b591a4b350983c3a5647e21064a764813
+
+SHA1: 14dfd0172567b47c819b3e61d1ce13281e0ffed6
+
+BLAKE2sp: 4fcdc782867f9b143e047e621df8a849b09573b1953dbe15a067c6b6b2533db1
+<br>
+</br>
+
 Name: Stunt Racer 64 (U) [!].z64
 
 Size: 12582912 bytes (12 MiB)
@@ -813,6 +943,22 @@ SHA256: c86664acd35c31ccd1e2aa054a8614b933f037e411919b2aded5ddb237bd6dff
 SHA1: 56937a9e9536af55ebed06480413265848c4a04a
 
 BLAKE2sp: 0455c53e331bfc7429ee0eb397adf8d647cde7f037f4e01bc8d65c10139ab567
+<br>
+</br>
+
+Name: Transformers - Beast Wars Transmetal (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: 85138B5A
+
+CRC64: D5B708D1D4E54499
+
+SHA256: aae1c838d88a4ff7eac6b515452265416141f22bc5dea760c66d0f1eb811165b
+
+SHA1: 8d074a0e74e69a45a57a48470383bd5268521cde
+
+BLAKE2sp: 2fd4104e2bd28e585b17d0a2dc0cf464b2a9a3adc07af251cf1b45fe80428b35
 <br>
 </br>
 
