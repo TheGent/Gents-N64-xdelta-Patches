@@ -90,25 +90,6 @@ BLAKE2sp: 14f2957c5beee547eaf1974e8c414479695872e2905f94a6b8d5beff8c804b7e
 <br>
 </br>
 
-Name: Banjo-Tooie (U) [!].z64
-
-Size: 33554432 bytes (32 MiB)
-
-CRC32: BAB803EF
-
-CRC64: D62D0C56DB03E206
-
-SHA256: 9ec37fba6890362eba86fb855697a9cff1519275531b172083a1a6a045483583
-
-SHA1: af1a89e12b638b8d82cc4c085c8e01d4cba03fb3
-
-BLAKE2sp: 8e6cdd409f2e0a642f331bf89f1cff665677995d98c9a8e267335b7afb86d73f
-
-// This takes the original (U) release file and creates Banjo-Tooie (E) [f1] (Flashcart).z64
-
-<br>
-</br>
-
 Name: Bassmasters 2000 (U) [!].z64
 
 Size: 12582912 bytes (12 MiB)
@@ -429,24 +410,6 @@ SHA256: 2ebd827db509397f27c557e017bdcdaaed0a748a73babc25f322bb2faab66100
 SHA1: c5bcf3eff6bcdd9e7846ce5fd5db3095db9c58ed
 
 BLAKE2sp: 092a083dbc5d61a3d78e4ddd394a074946bb458d3e2ef442da2d77c916c5b371
-<br>
-</br>
-
-Name: Jet Force Gemini (U) [!].z64
-
-Size: 33554432 bytes (32 MiB)
-
-CRC32: 6753D5A3
-
-CRC64: 206E153308D90551
-
-SHA256: 159dde164c475976a3e527fbb20978431d4765f2c63019b3530c3aa8772595aa
-
-SHA1: 493ced9008dbe932d6e91179b68e8630cf23a023
-
-BLAKE2sp: 411b1abfb3933a9be18d7ced6266264504256246b6ca42718817e84a59f012ad
-
-// This takes the original (U) release file and creates Jet Force Gemini (E) [f1] (Flashcart).z64
 <br>
 </br>
 
