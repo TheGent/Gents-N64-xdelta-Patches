@@ -1,4 +1,4 @@
-# PAL - MTSC Converted Patches for PAL Exclusive Game Releases.
+# PAL - NTSC Converted Patches for PAL Exclusive Game Releases.
 
 Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and for ease of use [xdeltaUI](https://www.romhacking.net/utilities/598/) The Windows FrontEnd.
 
