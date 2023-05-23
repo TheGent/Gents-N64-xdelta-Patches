@@ -24,6 +24,7 @@ Below are a list of the games correct names and format extention to be used with
 
 If the game also has a / AKA Name, rename the file to the first listed one!
 
+The following take the original (E) release file and creates the (U) [PAL-NTSC] version of the game
 <br>
 </br>
 
