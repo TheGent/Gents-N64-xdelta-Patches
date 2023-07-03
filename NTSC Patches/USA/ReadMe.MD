@@ -40,8 +40,26 @@ BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
 <br>
 </br>
 
+Name: Super Mario 64 (U) [!].z64
+Size: 8388608 bytes (8192 KiB)
+CRC32: 3CE60709
+CRC64: 3A386557772EC47C
+SHA256: 17ce077343c6133f8c9f2d6d6d9a4ab62c8cd2aa57c40aea1f490b4c8bb21d91
+SHA1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce
+BLAKE2sp: 074602c6668c7205b620b4007c72a68d1cb80d4983618935c79a4ed432238eac
 
-I hope you enjoy playing these games on your Flashcrat via your Console as much i did.
+
+To create the following files at the size of 256kb / 32mb
+
+Super Ice 64 (U) REV 5 (Hack).z64 (For NTSC Console or Emulator)
+Super Ice 64 (E) REV 5 [NTSC-PAL] (Hack).z64 (For PAL Console)
+
+// This takes the original (U) release file and creates Super Ice 64 (U) REV 5 (Hack).z64 (For NTSC Console or Emulator)
+<br>
+</br>
+
+
+I hope you enjoy playing these games on your Flashcart via your Console as much i did.
 <p>
 </p>
 Enjoy!
