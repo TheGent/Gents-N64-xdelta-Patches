@@ -1134,7 +1134,7 @@ Creates the following below:
 
 //Captain Falcon 64 1.3 (E) [NTSC-PAL] (Hack).z64
 
-//Super Ice 64 (E) REV 5 [NTSC-PAL] (Hack).z64 (For PAL Console)
+//Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64 (For PAL Console)
 
 //Marios Mafia Misadventure (E) [NTSC-PAL] (Hack).z64
 

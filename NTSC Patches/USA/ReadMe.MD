@@ -51,8 +51,8 @@ BLAKE2sp: 074602c6668c7205b620b4007c72a68d1cb80d4983618935c79a4ed432238eac
 
 To create the following files at the size of 256kb / 32mb
 
-Super Ice 64 (U) REV 5 (Hack).z64 (For NTSC Console or Emulator)
-Super Ice 64 (E) REV 5 [NTSC-PAL] (Hack).z64 (For PAL Console)
+Super Ice 64 (U) REV 7 (Hack).z64 (For NTSC Console or Emulator)
+Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64 (For PAL Console)
 
 // This takes the original (U) release file and creates Super Ice 64 (U) REV 5 (Hack).z64 (For NTSC Console or Emulator)
 <br>
