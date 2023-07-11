@@ -33,6 +33,7 @@ BLAKE2sp: d83f103291b8f0e643d1808538d750a53a38e6ae61815079813e8c622be320ea
 
 
 // This takes the original (A) (All Region) release file and creates XenoCrisis_v1_0_0_E.z64 with a CIC-NUS-7101 (PAL)
+
 // You can use directly with an N64 RetroBlaster or a Joey64 with the Clone Cart of Resident Evil 2
 
 <br>
