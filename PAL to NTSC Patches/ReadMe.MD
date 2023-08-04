@@ -28,23 +28,6 @@ The following take the original (E) release file and creates the (U) [PAL-NTSC] 
 <br>
 </br>
 
-Name: F1 Racing Championship (E) (M5) [!].z64
-
-Size: 16777216 bytes (16 MiB)
-
-CRC32: 2DA744F5
-
-CRC64: F704ADAAEAAC1B3E
-
-SHA256: 51b765ae7cfdd67ed58a92b5c2181c6c5a6949884df0775b53f72c243f0b6919
-
-SHA1: 3bce20f58ef9f377299858b7f2dabd0a02d2e9b9
-
-BLAKE2sp: 0fa5c755fc4be9443314d0e7f38c50b920dde8efb409a192d855c3cf07c31c4f
-
-<br>
-</br>
-
 Name: F-1 World Grand Prix II (E) (M4) [!].z64
 
 Size: 12582912 bytes (12 MiB)
@@ -61,7 +44,7 @@ BLAKE2sp: c47ee3dce1876bd1a8296f5160e62aa0b8979d5df1c4ef7df5eab5e5c2fb8b79
 <br>
 </br>
 
-Name: HSV Adventure Racing (A).z64
+Name: HSV Adventure Racing (E).z64
 
 Size: 16777216 bytes (16 MiB)
 
@@ -93,21 +76,6 @@ BLAKE2sp: 76ceab8019acfd980a8a406480f40f4e5580b04a01aedf26e76188cb494a7c45
 <br>
 </br>
 
-Name: Snowboard Kids 2 (A) [!].z64
-
-Size: 16777216 bytes (16 MiB)
-
-CRC32: 3A0B6214
-
-CRC64: B67C5FB34AF13632
-
-SHA256: ba930f182f2d1ae73fa340a5eec4d1a1ef77b75c3498ba2867d98caef09e5fa7
-
-SHA1: e807f0fa1d6fde619a83f0926b2294123f34501c
-
-BLAKE2sp: a23805b95717eabd3e3b9489159c9f06ba1f3e1b5dbacf57fe12b502567d10f8
-<br>
-</br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
 <p>
 </p>
