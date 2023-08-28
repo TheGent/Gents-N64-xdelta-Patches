@@ -236,6 +236,24 @@ BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
 <br>
 </br>
 
+Name: Cruis'n Exotica (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: 867A2CED
+
+CRC64: 9C5BEA2C12741EAB
+
+SHA256: d26ecb1b3a3dc965acc1063cc243ab573bf5ffca310e96aff2f6d2265a49f0b1
+
+SHA1: 428f53a060103fd88ebfbdcc032a99caea901e17
+
+BLAKE2sp: 3a756283acacc47bb770cf878dcc160a8372363bfb64fc19bf91cb5328872035
+
+// This takes the original (U) release file and creates Cruis'n Exotica (E) [NTSC-PAL].z64
+<br>
+</br>
+
 Name: Dr. Mario 64 (U) [!].z64
 
 Size: 4194304 bytes (4096 KiB)
