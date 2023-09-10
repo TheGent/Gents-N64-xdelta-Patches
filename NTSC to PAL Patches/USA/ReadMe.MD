@@ -1150,6 +1150,8 @@ BLAKE2sp: 074602c6668c7205b620b4007c72a68d1cb80d4983618935c79a4ed432238eac
 
 Creates the following below:
 
+//Super Mario 64 (Rumble Edition) (E) [NTSC-PAL].z64
+
 //Captain Falcon 64 1.3 (E) [NTSC-PAL] (Hack).z64
 
 //Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64 (For PAL Console)
