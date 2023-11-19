@@ -7456,12 +7456,7 @@ Worms Armageddon<br>
 			Gent</a>,
 			<a href="https://web.archive.org/web/20130623153053/http://n64.icequake.net/mirror/www.elitendo.com/n64/usa_boot_save_faq.html" target="_blank">
 			Elitendo</a> and <a href="http://micro-64.com" target="_blank">
-			micro-64.com</a></p>
-
-                  </td>
-                </tr>
-              </table>
-            
+			micro-64.com</a></p>            
 </body>
 
 </html>
