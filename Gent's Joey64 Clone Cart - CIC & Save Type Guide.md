@@ -1,7 +1,3 @@
-<head>
-<title>Gent's Joey64 Clone Cart - CIC &amp; Save Type Guide</title>
-</head>
-
 <body>
 
 <p>
