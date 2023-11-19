@@ -1,3 +1,7 @@
+<head>
+<title>Gent's Joey64 Clone Cart - CIC &amp; Save Type Guide</title>
+</head>
+
 <body>
 
 <p>
@@ -58,9 +62,11 @@
 		<p class="auto-style2">&nbsp;</p>
 		<strong>
 		<h3 class="auto-style2">
-		CIC-NUS-6101 (NTSC) /
+		<a name="CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)">CIC-NUS-6101 (NTSC) /
 		<strong>
 		CIC-NUS-7102 (PAL)
+		</strong></a>
+		<strong>
 		<font size="4">4K EEPROM</font></strong></h3>
 		<p style="font-family: verdana;"><span class="auto-style2">For Joey64 
 		Clone Cart Flasher: </span>
@@ -76,10 +82,11 @@
 		for use with the mentioned save type on 6102/7101 </span>
 		<p class="auto-style2">&nbsp;</p>
 		<h3 class="auto-style2">
+		<a name="CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)">
 		<strong>
 		CIC-NUS-610</strong>2 (NTSC) /
 		<strong>
-		CIC-NUS-710</strong>1 (PAL) <font size="4">4K EEPROM</font></h3>
+		CIC-NUS-710</strong>1 (PAL)</a> <font size="4">4K EEPROM</font></h3>
 		<p class="auto-style2">
 		For Joey64 Clone Cart Flasher: Use <strong>Mario Party 2</strong> (Clone Cart)<strong> </strong>
 		(<strong>256 MBit / 32 MB</strong>)<strong> </strong>for <strong>
@@ -6445,8 +6452,8 @@
 		<p style="line-height: 100%; margin-bottom: 0cm" class="auto-style2">&nbsp;</p>
 		<strong>
 		<h3 class="auto-style2">
-		CIC-NUS-6103 (NTSC) /
-		CIC-NUS-7103 (PAL) <em> EEPROM4K&nbsp;</em></strong></h3>
+		<a name="CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)">CIC-NUS-6103 (NTSC) /
+		CIC-NUS-7103 (PAL)</a> <em> EEPROM4K&nbsp;</em></strong></h3>
 		<p class="auto-style2">
 		For Joey64 Clone Cart Flasher: Use <strong>Kirby 64 - The Crystal Shards </strong>(Clone Cart) <em>(<strong>128MBit / 
 		16 MB</strong>) </em> for <strong>
@@ -6723,7 +6730,7 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" style="border: 1px solid #000000; height: 55px;" valign="middle">
-				<strong>SRAM</strong></td>
+				<strong>SRAM Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="26" style="border: 1px solid #000000; width: 443px;" valign="middle">
@@ -7094,8 +7101,8 @@
 		<h3 class="auto-style2">
 		&nbsp;</h3>
 		<h3 class="auto-style2">
-		CIC-NUS-6105 (NTSC) /
-		CIC-NUS-7105 (PAL) <em> EEPROM4K&nbsp;</em></h3>
+		<a name="CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)0">CIC-NUS-6105 (NTSC) /
+		CIC-NUS-7105 (PAL)</a> <em> EEPROM4K&nbsp;</em></h3>
 		<p style="font-family: verdana;"><span class="auto-style2">For Joey64 
 		Clone Cart Flasher: There is no point as Only one game used this.</span></p>
 		<ul>
@@ -7523,9 +7530,9 @@
 		<p class="auto-style2">&nbsp;</p>
 		<strong>
 		<h3 class="auto-style2">
-		CIC-NUS-6106 (NTSC) /
+		<a name="CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)">CIC-NUS-6106 (NTSC) /
 		<strong>
-		CIC-NUS-7106 (PAL)
+		CIC-NUS-7106 (PAL)</strong></a><strong>
 		<em> EEPROM16K&nbsp;</em></strong></h3>
 		<p class="auto-style2">For Joey64 Clone Cart Flasher: Use<strong>
 		Yoshi's Story
@@ -7674,13 +7681,13 @@
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
 <ul>
-<li class="auto-style2"><a href="#Controller_Pak">Controller Pak</a> (32,768 bytes) </li>
-<li class="auto-style2"><a href="#4Kbit_EEPROM">EEPROM 4Kilobits</a> (512 bytes)</li>
-<li class="auto-style2"><a href="#16Kbit_EEPROM">EEPROM 16 Kilobits</a> (2048 bytes)</li>
-<li class="auto-style2"><a href="#SRAM">SRAM 256 Kilobits</a> (32,768 bytes)</li>
-<li class="auto-style2"><a href="#FlashRAM">FlashRAM 1024 Kilobits</a> (131,072 
+<li class="auto-style2">Controller Pak (32,768 bytes) </li>
+<li class="auto-style2">EEPROM 4Kilobits (512 bytes)</li>
+<li class="auto-style2">EEPROM 16 Kilobits (2048 bytes)</li>
+<li class="auto-style2">SRAM 256 Kilobits (32,768 bytes)</li>
+<li class="auto-style2">FlashRAM 1024 Kilobits (131,072 
 bytes)</li>
-<li class="auto-style2"><a href="#No_Save">No Save</a> (included at the bottom)</li>
+<li class="auto-style2">No Save (included at the bottom)</li>
 </ul>
 
 <p class="auto-style2">The bottom four methods are for on-cartridge saving. They function basically the same to the end user. SRAM (Static RAM) uses a coin cell battery as it is a volatile form of memory. EEPROM and FlashRAM do not require an external power source to retain data.</p>
