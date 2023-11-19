@@ -7651,7 +7651,7 @@
 </table>
 </p>
                    
-		  <h3><strong>Game Save Method List:</strong></h3>
+		 <strong>Game Save Method List:</strong>
 		  <p>&nbsp;</p>
 		           
                   
