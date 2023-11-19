@@ -7671,10 +7671,10 @@
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
 <ul>
-<li class="auto-style2"><a href="#Controller_Pak">Controller Pak</a> (32,768 bytes) </li>
-<li class="auto-style2"><a href="#4Kbit_EEPROM">EEPROM 4Kilobits</a> (512 bytes)</li>
-<li class="auto-style2"><a href="#16Kbit_EEPROM">EEPROM 16 Kilobits</a> (2048 bytes)</li>
-<li class="auto-style2"><a href="#SRAM">SRAM 256 Kilobits</a> (32,768 bytes)</li>
+<li Controller Pak</a> (32,768 bytes) </li>
+<li EEPROM 4Kilobits</a> (512 bytes)</li>
+<li 16Kbit_EEPROM">EEPROM 16 Kilobits</a> (2048 bytes)</li>
+<li SRAM 256 Kilobits</a> (32,768 bytes)</li>
 <li class="auto-style2"><a href="#FlashRAM">FlashRAM 1024 Kilobits</a> (131,072 
 bytes)</li>
 <li class="auto-style2"><a href="#No_Save">No Save</a> (included at the bottom)</li>
