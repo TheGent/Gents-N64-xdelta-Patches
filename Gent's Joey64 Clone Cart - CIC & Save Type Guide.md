@@ -7666,7 +7666,7 @@
          
 <strong></p>
 			
-			<h3>Save Method Overview</h3></strong>
+			Save Method Overview
 
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
