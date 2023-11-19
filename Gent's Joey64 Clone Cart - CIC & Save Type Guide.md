@@ -22,16 +22,16 @@
 		</ul>
 		<ul>
 			<li class="auto-style2">
-			<a href="CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
+			<a CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
 			<strong>CIC-NUS-6101</strong></a></li>
 			<li class="auto-style2"><strong>
-			<a href="CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-6102</a></strong></li>
+			<a CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-6102</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-6103</a></strong></li>
+			<a CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-6103</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)_EEPROM16K">CIC-NUS-6105</a></strong></li>
+			<a CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)_EEPROM16K">CIC-NUS-6105</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)_EEPROM16K">CIC-NUS-6106</a></strong></li>
+			<a CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)_EEPROM16K">CIC-NUS-6106</a></strong></li>
 		</ul>
 		<ul>
 			<li class="auto-style2"><strong>PAL:</strong></li>
