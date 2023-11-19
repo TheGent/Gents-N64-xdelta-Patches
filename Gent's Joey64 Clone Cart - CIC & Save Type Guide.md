@@ -1,5 +1,3 @@
-</head>
-
 <body>
 
 <p>
@@ -24,16 +22,16 @@
 		</ul>
 		<ul>
 			<li class="auto-style2">
-			<a href="#CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
+			<a href="CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
 			<strong>CIC-NUS-6101</strong></a></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-6102</a></strong></li>
+			<a href="CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-6102</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-6103</a></strong></li>
+			<a href="CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-6103</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)_EEPROM16K">CIC-NUS-6105</a></strong></li>
+			<a href="CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)_EEPROM16K">CIC-NUS-6105</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)_EEPROM16K">CIC-NUS-6106</a></strong></li>
+			<a href="CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)_EEPROM16K">CIC-NUS-6106</a></strong></li>
 		</ul>
 		<ul>
 			<li class="auto-style2"><strong>PAL:</strong></li>
@@ -7452,7 +7450,7 @@ Worms Armageddon<br>
 </ul>
 			<p>&nbsp;</p>
 			<p class="auto-style2">Credit for a this information goes to
-			<a href="https://github.com/TheGent/Gents-N64-xdelta-Patches/tree/main/CIC%20Change" target="_blank">
+			<a href="https://github.com/TheGent/Gents-N64-xdelta-Patches" target="_blank">
 			Gent</a>,
 			<a href="https://web.archive.org/web/20130623153053/http://n64.icequake.net/mirror/www.elitendo.com/n64/usa_boot_save_faq.html" target="_blank">
 			Elitendo</a> and <a href="http://micro-64.com" target="_blank">
