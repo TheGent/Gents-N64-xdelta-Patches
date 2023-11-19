@@ -1669,7 +1669,7 @@
 		<h3 class="auto-style2">
 		&nbsp;</h3>
 		<h3 class="auto-style2">
-		CIC-NUS-6102 (NTSC) /
+		IC-NUS-6102 (NTSC) /
 		CIC-NUS-7101 (PAL) <strong>NO Cartridge </strong>Save</h3>
 		<p class="auto-style2">
 		For Joey64 Clone Cart Flasher: Use <strong>Mario Party 2</strong> (Clone Cart)<strong> </strong>
