@@ -7656,10 +7656,6 @@
 		</td>
 	</tr>
 </table>
-</p>
-              <table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-
   <tr>
           <td style="height: 40px" class="auto-style2">
 		  <h3><strong>Game Save Method List:</strong></h3>
