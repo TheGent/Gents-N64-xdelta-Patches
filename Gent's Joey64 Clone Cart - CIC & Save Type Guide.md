@@ -1,6 +1,3 @@
-<head>
-<title>Gent's Joey64 Clone Cart - CIC &amp; Save Type Guide</title>
-</head>
 <body>
 
 <p>
@@ -27,30 +24,30 @@
 		</ul>
 		<ul>
 			<li class="auto-style2">
-			<strong><a href="#CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)">CIC-NUS-6101</a></strong></li>
+			<strong>CIC-NUS-6101</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)">CIC-NUS-6102</a></strong></li>
+			CIC-NUS-6102</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)">CIC-NUS-6103</a></strong></li>
+			CIC-NUS-6103</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)0">CIC-NUS-6105</a></strong></li>
+			CIC-NUS-6105</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)">CIC-NUS-6106</a></strong></li>
+			CIC-NUS-6106</strong></li>
 		</ul>
 		<ul>
 			<li class="auto-style2"><strong>PAL:</strong></li>
 		</ul>
 		<ul>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)">CIC-NUS-7101</a></strong></li>
+			CIC-NUS-7101</strong></li>
 			<li class="auto-style2">
-			<strong><a href="#CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)">CIC-NUS-7102</a></strong></li>
+			<strong>CIC-NUS-7102</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)0">CIC-NUS-7103</a></strong></li>
+			CIC-NUS-7103</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)0">CIC-NUS-7105</a></strong></li>
+			CIC-NUS-7105</strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)">CIC-NUS-7106</a></strong></li>
+			CIC-NUS-7106</strong></li>
 		</ul>
 		<p class="auto-style2">The CIC-6102 chip is considered the standard NTSC security chip. For 
 		PAL games it is the CIC-7101. The vast majority of releases use these 
@@ -61,11 +58,9 @@
 		<p class="auto-style2">&nbsp;</p>
 		<strong>
 		<h3 class="auto-style2">
-		<a name="CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)">CIC-NUS-6101 (NTSC) /
+		CIC-NUS-6101 (NTSC) /
 		<strong>
 		CIC-NUS-7102 (PAL)
-		</strong></a>
-		<strong>
 		<font size="4">4K EEPROM</font></strong></h3>
 		<p style="font-family: verdana;"><span class="auto-style2">For Joey64 
 		Clone Cart Flasher: </span>
@@ -81,11 +76,10 @@
 		for use with the mentioned save type on 6102/7101 </span>
 		<p class="auto-style2">&nbsp;</p>
 		<h3 class="auto-style2">
-		<a name="CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)">
 		<strong>
 		CIC-NUS-610</strong>2 (NTSC) /
 		<strong>
-		CIC-NUS-710</strong>1 (PAL)</a> <font size="4">4K EEPROM</font></h3>
+		CIC-NUS-710</strong>1 (PAL) <font size="4">4K EEPROM</font></h3>
 		<p class="auto-style2">
 		For Joey64 Clone Cart Flasher: Use <strong>Mario Party 2</strong> (Clone Cart)<strong> </strong>
 		(<strong>256 MBit / 32 MB</strong>)<strong> </strong>for <strong>
@@ -93,7 +87,7 @@
 		<p class="auto-style2">This was the most commonly used CIC</p>
 		<p class="auto-style2">&nbsp;</p>
 		<p>
-		<table border="0" cellspacing="0" class="auto-style12">
+		<table border="0" cellspacing="0" class="auto-style5">
 			<colgroup width="393">
 			</colgroup>
 			<colgroup width="101">
@@ -107,1568 +101,1567 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" class="auto-style9" colspan="4" style="height: 56px;" valign="middle">
-				EEPROM (4 Kbits)<strong>
-		</strong>Save Type</td>
+				<td align="center" bgcolor="#000000" class="auto-style4" colspan="4" style="height: 56px;" valign="middle">
+				<strong>EEPROM (4 Kbits) Save Type</strong></td>
 			</tr>
 			<tr>
-				<td align="left" bgcolor="#CCCCCC" height="36" style="width: 406px;" valign="middle" class="auto-style10">
+				<td align="left" bgcolor="#CCCCCC" height="36" style="width: 406px;" valign="middle" class="auto-style6">
 				<b>Good Name</b></td>
-				<td align="center" bgcolor="#CCCCCC" style="width: 137px;" valign="middle" class="auto-style10">
+				<td align="center" bgcolor="#CCCCCC" style="width: 137px;" valign="middle" class="auto-style6">
 				<b>CIC</b></td>
-				<td align="center" bgcolor="#CCCCCC" style="width: 164px;" valign="middle" class="auto-style10">
+				<td align="center" bgcolor="#CCCCCC" style="width: 164px;" valign="middle" class="auto-style6">
 				<b>Save Type</b></td>
-				<td align="center" bgcolor="#CCCCCC" style="width: 129px;" valign="middle" class="auto-style10">
+				<td align="center" bgcolor="#CCCCCC" style="width: 129px;" valign="middle" class="auto-style6">
 				<b>Image Size</b></td>
 			</tr>
 			<tr>
-				<td align="left" style="height: 26px; width: 406px;" class="auto-style10">
+				<td align="left" style="height: 26px; width: 406px;" class="auto-style6">
 				Aerofighter's Assault (E)</td>
-				<td align="center" style="width: 137px; height: 26px;" class="auto-style10">
+				<td align="center" style="width: 137px; height: 26px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px; height: 26px;" class="auto-style10">
+				<td align="center" style="width: 164px; height: 26px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px; height: 26px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px; height: 26px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Aerofighter's Assault (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				AeroGauge (E) (M3)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				AeroGauge (J) (V1.1)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				AeroGauge (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Airboarder 64 (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Airboarder 64 (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Alice no Wakuwaku Trump World (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				All Star Tennis '99 (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				All Star Tennis '99 (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Baku Bomberman (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bakuretsu Muteki Bangaioh (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bass Hunter 64 (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Beast Wars Metals (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Beast Wars Transmetal (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Big Mountain 2000 (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Blast Corps (E) (M2)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Blast Corps (U) (V1.0)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Blast Corps (U) (V1.1)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Blast Dozer (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Body Harvest (E) (M3)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Body Harvest (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bomberman 64 (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bomberman 64 (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bomberman Hero (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bomberman Hero (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Bomberman Hero (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Chameleon Twist (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Chameleon Twist (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Chameleon Twist (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Chopper Attack (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Chopper Attack (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Choro Q 64 (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Choro Q 64 II (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="96" style="width: 129px;" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Cruis'n Exotica (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Cruis'n USA (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Cruis'n USA (U) (V1.0)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Cruis'n USA (U) (V1.1)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Cruis'n USA (U) (V1.2)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="64" style="width: 129px;" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Custom Robo (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" class="auto-style10">
+				<td align="center" style="width: 164px;" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style10">
+				<td align="center" sdnum="2057;" sdval="128" style="width: 129px;" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Disney's Donald Duck - Goin' Quackers (U) (M5)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="160" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="160" style="width: 129px;" valign="top" class="auto-style6">
 				160</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Doraemon - Mittsu no Seireiseki (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Dr. Mario 64 (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="32" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="32" style="width: 129px;" valign="top" class="auto-style6">
 				32</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Duck Dodgers Starring Daffy Duck (U) (M3)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Earthworm Jim 3D (E) (M5)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Earthworm Jim 3D (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				F-1 World Grand Prix (E)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				F-1 World Grand Prix (F)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				F-1 World Grand Prix (G)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				F-1 World Grand Prix (J)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				F-1 World Grand Prix (U)</td>
-				<td align="center" style="width: 137px;" class="auto-style10">
+				<td align="center" style="width: 137px;" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Fighter's Destiny (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Fighter's Destiny (F)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Fighter's Destiny (G)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Fighter's Destiny (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Glover (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Glover (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				GoldenEye 007 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				GoldenEye 007 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				GoldenEye 007 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				GT 64 Championship Edition (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				GT 64 Championship Edition (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Hey You, Pikachu! (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				In-Fisherman Bass Hunter 64 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Indiana Jones and the Infernal Machine (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Indy Racing 2000 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Killer Instinct Gold (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Killer Instinct Gold (U) (V1.0)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Killer Instinct Gold (U) (V1.1)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Killer Instinct Gold (U) (V1.2)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Lode Runner 3-D (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Lode Runner 3-D (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Lode Runner 3-D (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Looney Tunes - Duck Dodgers (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Lylat Wars (A)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Lylat Wars (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Kart 64 (E) (V1.0)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Kart 64 (E) (V1.1)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Kart 64 (J) (V1.0)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Kart 64 (J) (V1.1)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Kart 64 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Party (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Party (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Party (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Party 2 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Party 2 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Party 2 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mischief Makers (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mischief Makers (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mission Impossible (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mission Impossible (F)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mission Impossible (G)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mission Impossible (I)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mission Impossible (S)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mission Impossible (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Monopoly (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				MRC - Multi Racing Championship (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				MRC - Multi Racing Championship (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				MRC - Multi Racing Championship (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Penny Racers (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Penny Racers (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				PGA European Tour (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				PGA European Tour (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Pikachu Genki Dechu (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Pilotwings 64 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Pilotwings 64 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Pilotwings 64 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Rocket - Robot on Wheels (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Rocket - Robot on Wheels (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Snowboard Kids 2 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Snowboard Kids 2 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Sonic Wings Assault (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Spacestation Silicon Valley (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Spacestation Silicon Valley (F)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Spacestation Silicon Valley (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Spacestation Silicon Valley (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Fox 64 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Fox 64 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Soldier Vanishing Earth (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Soldier Vanishing Earth (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Rogue Squadron (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Rogue Squadron (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Shadows of the Empire (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Shadows of the Empire (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Shadows of the Empire (U) (V1.0)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Shadows of the Empire (U) (V1.1)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Shadows of the Empire (U) (V1.2)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars - Shuggeki Rogue Chitai (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars Episode I - Battle for Naboo (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Star Wars Episode I - Battle for Naboo (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="256" style="width: 129px;" valign="top" class="auto-style6">
 				256</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Starshot - Space Circus Fever (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Starshot - Space Circus Fever (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Super Mario 64 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Super Mario 64 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Super Mario 64 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Super Mario 64 Shindou Edition (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Tetrisphere (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Tetrisphere (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Tom and Jerry in Fists of Furry (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Tom and Jerry in Fists of Furry (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Top Gear Overdrive (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Top Gear Overdrive (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Top Gear Overdrive (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				V-Rally Edition 99 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				V-Rally Edition 99 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				V-Rally Edition 99 (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Waialae Country Club - True Golf Classics (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Waialae Country Club - True Golf Classics (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="128" style="width: 129px;" valign="top" class="auto-style6">
 				128</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Wave Race 64 (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Wave Race 64 (J)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Wave Race 64 (U) (V1.0)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Wave Race 64 (U) (V1.1)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Wave Race 64 Shindou Edition (J) (V1.2)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="64" style="width: 129px;" valign="top" class="auto-style6">
 				64</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Worms - Armageddon (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style10">
+				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Worms - Armageddon (U)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-6102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style10">
+				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
 				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style10">
+				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
 				96</td>
 			</tr>
 		</table>
@@ -1694,7 +1687,7 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="3" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				<font size="4">NO Cartridge Save</font></td>
+				<strong>NO Cartridge Save</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 528px;" valign="middle">
@@ -2218,7 +2211,7 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
-				Charlie Blast’s Territory (U)</td>
+				Charlie Blastâ€™s Territory (U)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;">
 				CIC-NUS-6102</td>
 				<td align="center" sdnum="2057;" sdval="32" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">
@@ -3082,7 +3075,7 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
-				Iggy's Reckin‘ Balls (E)</td>
+				Iggy's Reckinâ€˜ Balls (E)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-7101</td>
 				<td align="center" sdnum="2057;" sdval="64" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top">
@@ -5953,7 +5946,7 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				EEPROM (16 Kbits)</td>
+				<strong>EEPROM (16 Kbits)</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 288px;" valign="middle">
@@ -6105,7 +6098,7 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				SRAM Save Type</td>
+				<strong>SRAM Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 451px;" valign="middle">
@@ -6452,8 +6445,8 @@
 		<p style="line-height: 100%; margin-bottom: 0cm" class="auto-style2">&nbsp;</p>
 		<strong>
 		<h3 class="auto-style2">
-		<a name="CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)">CIC-NUS-6103 (NTSC) /
-		CIC-NUS-7103 (PAL)</a> <em> EEPROM4K&nbsp;</em></strong></h3>
+		CIC-NUS-6103 (NTSC) /
+		CIC-NUS-7103 (PAL) <em> EEPROM4K&nbsp;</em></strong></h3>
 		<p class="auto-style2">
 		For Joey64 Clone Cart Flasher: Use <strong>Kirby 64 - The Crystal Shards </strong>(Clone Cart) <em>(<strong>128MBit / 
 		16 MB</strong>) </em> for <strong>
@@ -6478,8 +6471,8 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				<b><font size="4">4K EEPROM memory</font></b></td>
+				<td align="center" bgcolor="#000000" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" class="auto-style3">
+				<strong>4K EEPROM&nbsp; Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 318px;" valign="middle">
@@ -6633,8 +6626,8 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				<b><font size="4">16K EEPROM memory</font></b></td>
+				<td align="center" bgcolor="#000000" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" class="auto-style7">
+				16K EEPROM Save Type</td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 287px;" valign="middle">
@@ -6729,8 +6722,8 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" height="26" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				SRAM</td>
+				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" style="border: 1px solid #000000; height: 55px;" valign="middle">
+				<strong>SRAM</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="26" style="border: 1px solid #000000; width: 443px;" valign="middle">
@@ -6854,7 +6847,7 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" style="border: 1px solid #000000; height: 56px;" valign="middle">
-				<span class="auto-style2">FLASH</span> RAM Save Type</td>
+				<span class="auto-style1"><strong>FLASH</strong></span><strong> RAM Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" style="border: 1px solid #000000; height: 36px; width: 294px;" valign="middle">
@@ -7022,7 +7015,7 @@
 		</strong>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="3" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				<font size="4">NO Cartridge Save</font></td>
+				<strong>NO Cartridge Save</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 260px;" valign="middle">
@@ -7101,8 +7094,8 @@
 		<h3 class="auto-style2">
 		&nbsp;</h3>
 		<h3 class="auto-style2">
-		<a name="CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)0">CIC-NUS-6105 (NTSC) /
-		CIC-NUS-7105 (PAL)</a> <em> EEPROM4K&nbsp;</em></h3>
+		CIC-NUS-6105 (NTSC) /
+		CIC-NUS-7105 (PAL) <em> EEPROM4K&nbsp;</em></h3>
 		<p style="font-family: verdana;"><span class="auto-style2">For Joey64 
 		Clone Cart Flasher: There is no point as Only one game used this.</span></p>
 		<ul>
@@ -7143,7 +7136,7 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				16K EEPROM Save Type</td>
+				<strong>16K EEPROM Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 322px;" valign="middle">
@@ -7293,10 +7286,12 @@
 			</colgroup>
 			<colgroup width="61">
 			</colgroup>
+		</strong>
 			<tr>
-				<td align="center" bgcolor="#000000" colspan="4" style="border: 1px solid #000000; height: 33px;" valign="middle">
-				<b><font size="4">SRAM</font></b></td>
+				<td align="center" bgcolor="#000000" colspan="4" style="border: 1px solid #000000; height: 55px;" valign="middle" class="auto-style7">
+				SRAM Save Type</td>
 			</tr>
+		<strong>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="26" style="border: 1px solid #000000; width: 465px;" valign="middle">
 				<b>Good Name</b></td>
@@ -7441,7 +7436,8 @@
 			</colgroup>
 			<tr>
 				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
-				FLASH RAM </td>
+				<strong>FLASH RAM 
+				Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 421px;" valign="middle">
@@ -7527,9 +7523,9 @@
 		<p class="auto-style2">&nbsp;</p>
 		<strong>
 		<h3 class="auto-style2">
-		<a name="CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)">CIC-NUS-6106 (NTSC) /
+		CIC-NUS-6106 (NTSC) /
 		<strong>
-		CIC-NUS-7106 (PAL)</strong></a><strong>
+		CIC-NUS-7106 (PAL)
 		<em> EEPROM16K&nbsp;</em></strong></h3>
 		<p class="auto-style2">For Joey64 Clone Cart Flasher: Use<strong>
 		Yoshi's Story
