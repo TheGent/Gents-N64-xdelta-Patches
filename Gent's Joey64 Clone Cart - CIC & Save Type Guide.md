@@ -7665,8 +7665,8 @@
 			</span>
          
 <strong></p>
-			<h3 style="font-family:verdana;">&nbsp;</h3>
-			<h3 style="font-family:verdana;">Save Method Overview</h3></strong>
+			
+			<h3>Save Method Overview</h3></strong>
 
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
