@@ -7650,40 +7650,37 @@
 	</tr>
 </table>
 </p>
-                   
-          <span style="height: 40px" class="auto-style2">
-		  <h3><strong>Game Save Method List:</strong></h3>
-		  </span>
-        
-
               <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
+
+  <tr>
+          <td style="height: 40px" class="auto-style2">
+		  <h3><strong>Game Save Method List:</strong></h3>
+		  <p>&nbsp;</p>
+		  </td>
+          </tr>
           
                   
           <tr>
             <td id="main">
 
-		           
-                  
-<p><span class="auto-style2">This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level. 
+			<p><span class="auto-style2">This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level. 
 			</span>
-         
          
 <strong></p>
 			<h3 style="font-family:verdana;">&nbsp;</h3>
 			<h3 style="font-family:verdana;">Save Method Overview</h3></strong>
 
-
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
 <ul>
-<li class="auto-style2">Controller Pak (32,768 bytes) </li>
-<li class="auto-style2">EEPROM 4Kilobits (512 bytes)</li>
-<li class="auto-style2">EEPROM 16 Kilobits (2048 bytes)</li>
-<li class="auto-style2">SRAM 256 Kilobits (32,768 bytes)</li>
-<li class="auto-style2">FlashRAM 1024 Kilobits (131,072 
+<li class="auto-style2"><a href="#Controller_Pak">Controller Pak</a> (32,768 bytes) </li>
+<li class="auto-style2"><a href="#4Kbit_EEPROM">EEPROM 4Kilobits</a> (512 bytes)</li>
+<li class="auto-style2"><a href="#16Kbit_EEPROM">EEPROM 16 Kilobits</a> (2048 bytes)</li>
+<li class="auto-style2"><a href="#SRAM">SRAM 256 Kilobits</a> (32,768 bytes)</li>
+<li class="auto-style2"><a href="#FlashRAM">FlashRAM 1024 Kilobits</a> (131,072 
 bytes)</li>
-<li class="auto-style2">No Save (included at the bottom)</li>
+<li class="auto-style2"><a href="#No_Save">No Save</a> (included at the bottom)</li>
 </ul>
 
 <p class="auto-style2">The bottom four methods are for on-cartridge saving. They function basically the same to the end user. SRAM (Static RAM) uses a coin cell battery as it is a volatile form of memory. EEPROM and FlashRAM do not require an external power source to retain data.</p>
