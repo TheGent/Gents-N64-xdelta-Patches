@@ -38,16 +38,16 @@
 		</ul>
 		<ul>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-7101</a></strong></li>
+			<a CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-7101</a></strong></li>
 			<li class="auto-style2">
-			<a href="#CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
+			<a CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
 			<strong>CIC-NUS-7102</strong></a></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-7103</a></strong></li>
+			<a CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-7103</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)_EEPROM16K">CIC-NUS-7105</a></strong></li>
+			<a CIC-NUS-6105_(NTSC)_/_CIC-NUS-7105_(PAL)_EEPROM16K">CIC-NUS-7105</a></strong></li>
 			<li class="auto-style2"><strong>
-			<a href="#CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)_EEPROM16K">CIC-NUS-7106</a></strong></li>
+			<a CIC-NUS-6106_(NTSC)_/_CIC-NUS-7106_(PAL)_EEPROM16K">CIC-NUS-7106</a></strong></li>
 		</ul>
 		<p class="auto-style2">The CIC-6102 chip is considered the standard NTSC security chip. For 
 		PAL games it is the CIC-7101. The vast majority of releases use these 
