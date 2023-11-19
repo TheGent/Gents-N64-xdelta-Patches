@@ -7664,9 +7664,11 @@
 <p><span class="auto-style2">This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level. 
 			</span>
          
+         
 <strong></p>
-			
-			Save Method Overview
+			<h3 style="font-family:verdana;">&nbsp;</h3>
+			<h3 style="font-family:verdana;">Save Method Overview</h3></strong>
+
 
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
