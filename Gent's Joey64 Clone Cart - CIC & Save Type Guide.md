@@ -7671,13 +7671,13 @@
 <p class="auto-style2">These are the 5 known saving methods:</p>
 
 <ul>
-<li Controller Pak</a> (32,768 bytes) </li>
-<li EEPROM 4Kilobits</a> (512 bytes)</li>
-<li 16Kbit_EEPROM">EEPROM 16 Kilobits</a> (2048 bytes)</li>
-<li SRAM 256 Kilobits</a> (32,768 bytes)</li>
-<li class="auto-style2"><a href="#FlashRAM">FlashRAM 1024 Kilobits</a> (131,072 
+<li class="auto-style2">Controller Pak (32,768 bytes) </li>
+<li class="auto-style2">EEPROM 4Kilobits (512 bytes)</li>
+<li class="auto-style2">EEPROM 16 Kilobits (2048 bytes)</li>
+<li class="auto-style2">SRAM 256 Kilobits (32,768 bytes)</li>
+<li class="auto-style2">FlashRAM 1024 Kilobits (131,072 
 bytes)</li>
-<li class="auto-style2"><a href="#No_Save">No Save</a> (included at the bottom)</li>
+<li class="auto-style2">No Save (included at the bottom)</li>
 </ul>
 
 <p class="auto-style2">The bottom four methods are for on-cartridge saving. They function basically the same to the end user. SRAM (Static RAM) uses a coin cell battery as it is a volatile form of memory. EEPROM and FlashRAM do not require an external power source to retain data.</p>
