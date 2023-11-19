@@ -25,7 +25,7 @@
 			<a CIC-NUS-6101_(NTSC)_/_CIC-NUS-7102_(PAL)_4K_EEPROM">
 			<strong>CIC-NUS-6101</strong></a></li>
 			<li class="auto-style2"><strong>
-			<a CIC-NUS-610CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-6102</a></strong></li>
+			<a CIC-NUS-6102_(NTSC)_/_CIC-NUS-7101_(PAL)_4K_EEPROM">CIC-NUS-6102</a></strong></li>
 			<li class="auto-style2"><strong>
 			<a CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)_FlashRAM">CIC-NUS-6103</a></strong></li>
 			<li class="auto-style2"><strong>
@@ -1671,7 +1671,7 @@
 		<h3 class="auto-style2">
 		&nbsp;</h3>
 		<h3 class="auto-style2">
-		IC-NUS-6102 (NTSC) /
+		CIC-NUS-6102 (NTSC) /
 		CIC-NUS-7101 (PAL) <strong>NO Cartridge </strong>Save</h3>
 		<p class="auto-style2">
 		For Joey64 Clone Cart Flasher: Use <strong>Mario Party 2</strong> (Clone Cart)<strong> </strong>
@@ -7026,8 +7026,7 @@
           <tr>
             <td id="main">
 
-			<p><span class="auto-style2">This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level. 
-			</span>
+			This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level. 
          
 <strong></p>
 			<h3 style="font-family:verdana;">&nbsp;</h3>
