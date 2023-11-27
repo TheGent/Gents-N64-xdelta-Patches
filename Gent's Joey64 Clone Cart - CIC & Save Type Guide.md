@@ -4558,6 +4558,14 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
+				Razor Freestyle Scooter (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" sdnum="2057;" sdval="96" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top">
+				64</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
 				Re-Volt (E)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-7101</td>
@@ -5183,6 +5191,14 @@
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
 				Tony Hawk's Pro Skater 2 (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">
+				128</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
+				Tony Hawk's Pro Skater 3 (U)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-6102</td>
 				<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">
