@@ -6720,7 +6720,7 @@
 		<p class="auto-style2">For Joey64 Clone Cart Flasher: Use<strong>
 		Super Smash Bros.</strong>
 		(Clone Cart) <em>(<strong>256 MBit / 32 MB</strong>) </em><strong>
-		FlashRAM<em> </em>
+		SRAM<em> </em>
 		</strong>
 		Save Type&nbsp;</p>
 		<p class="auto-style2">
