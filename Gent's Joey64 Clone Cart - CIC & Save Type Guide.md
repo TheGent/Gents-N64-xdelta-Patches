@@ -1,5 +1,47 @@
 <head>
 <title>Gent's Joey64 Clone Cart - CIC &amp; Save Type Guide</title>
+<style type="text/css">
+.auto-style1 {
+	color: #FFFFFF;
+}
+.auto-style2 {
+	text-align: left;
+}
+.auto-style3 {
+	text-align: center;
+}
+.auto-style4 {
+	text-align: right;
+}
+.auto-style5 {
+	font-weight: bold;
+	text-align: right;
+}
+.auto-style6 {
+	font-weight: bold;
+}
+.auto-style7 {
+	font-weight: bold;
+	text-align: center;
+}
+.auto-style8 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.auto-style9 {
+	color: #FFFFFF;
+	font-weight: normal;
+}
+.auto-style10 {
+	border: 1px solid #000000;
+	text-align: center;
+	color: #FFFFFF;
+}
+.auto-style11 {
+	text-align: center;
+	color: #FFFFFF;
+}
+</style>
 </head>
 
 <body>
@@ -108,7 +150,7 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" class="auto-style4" colspan="4" style="height: 56px;" valign="middle">
+				<td align="center" bgcolor="#000000" class="auto-style1" colspan="4" style="height: 56px;" valign="middle">
 				<strong>EEPROM (4 Kbits) Save Type</strong></td>
 			</tr>
 			<tr>
@@ -6466,6 +6508,187 @@
 		</table>
 		</p>
 		<p style="line-height: 100%; margin-bottom: 0cm" class="auto-style2">&nbsp;</p>
+		<h3 class="auto-style2">
+		<strong>
+		CIC-NUS-610</strong>2 (NTSC) /
+		<strong>
+		CIC-NUS-710</strong>1 (PAL) FlashRAM </h3>
+		<p class="auto-style2">
+		For Joey64 Clone Cart Flasher: Use Command &amp; Conquer Or WWF No Mercy
+		(Clone Cart) <em>(<strong>256 MBit / 32 MB</strong>) </em>for <em><strong>
+		FlashRAM&nbsp; </strong>
+		<span class="auto-style4">Save Type</span><strong> </strong></em></p>
+		<p style="line-height: 100%; margin-bottom: 0cm" class="auto-style2">&nbsp;</p>
+		<p style="line-height: 100%; margin-bottom: 0cm" class="auto-style2">
+		<table border="0" cellspacing="0" style="float: none; width: 858">
+			<colgroup width="393">
+			</colgroup>
+			<colgroup width="101">
+			</colgroup>
+			<colgroup width="134">
+			</colgroup>
+			<colgroup width="362">
+			</colgroup>
+			<colgroup width="85">
+			</colgroup>
+			<colgroup width="61">
+			</colgroup>
+			<tr>
+				<td align="center" bgcolor="#000000" class="auto-style9" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
+				<strong>FLASH RAM Save Type</strong></td>
+			</tr>
+			<tr>
+				<td align="left" bgcolor="#CCCCCC" height="36" style="border: 1px solid #000000; width: 254px;" valign="middle">
+				<b>Good Name</b></td>
+				<td bgcolor="#CCCCCC" class="auto-style7" style="border: 1px solid #000000; width: 117px;" valign="middle">
+				CIC</td>
+				<td align="center" bgcolor="#CCCCCC" style="border: 1px solid #000000; width: 125px;" valign="middle">
+				<b>Save Types</b></td>
+				<td align="center" bgcolor="#CCCCCC" style="border: 1px solid #000000; width: 73px;" valign="middle">
+				<b>Image Size</b></td>
+			</tr>
+			<tr>
+				<td align="left" style="border: 1px solid #000000; width: 451px; height: 26px;">
+				Command &amp; Conquer (E)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px; height: 26px;" valign="top">
+				CIC-NUS-7101</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px; height: 26px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px; height: 26px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				Command &amp; Conquer (G)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-7101</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				Command &amp; Conquer (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" style="border: 1px solid #000000; width: 451px; height: 26px;">
+				Mega Man 64 (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px; height: 26px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px; height: 26px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px; height: 26px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				NBA Courtside 2 - Featuring Kobe Bryant (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				128</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				Rockman Dash (J)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				StarCraft 64 (E)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-7101</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				StarCraft 64 (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				StarCraft 64 (U) (beta)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				Tigger's Honey Hunt (E)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-7101</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				128</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				Tigger's Honey Hunt (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				128</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				WWF No Mercy (E) (V1.0)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-7101</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				WWF No Mercy (E) (V1.1)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-7101</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 451px;">
+				WWF No Mercy (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 134px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border: 1px solid #000000; width: 125px;" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="192" style="border: 1px solid #000000; width: 118px;" valign="top">
+				256</td>
+			</tr>
+		</table>
+		</p>
 		<strong>
 		<h3 class="auto-style2">
 		<a name="CIC-NUS-6103_(NTSC)_/_CIC-NUS-7103_(PAL)">CIC-NUS-6103 (NTSC) /
@@ -6869,8 +7092,8 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" style="border: 1px solid #000000; height: 56px;" valign="middle">
-				<span class="auto-style1"><strong>FLASH</strong></span><strong> RAM Save Type</strong></td>
+				<td align="center" bgcolor="#000000" class="auto-style10" colspan="4" style="height: 56px;" valign="middle">
+				<strong>FLASH RAM Save Type</strong></td>
 			</tr>
 			<tr>
 				<td align="left" bgcolor="#CCCCCC" style="border: 1px solid #000000; height: 36px; width: 294px;" valign="middle">
@@ -7458,7 +7681,7 @@
 			<colgroup width="61">
 			</colgroup>
 			<tr>
-				<td align="center" bgcolor="#000000" class="auto-style3" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
+				<td align="center" bgcolor="#000000" class="auto-style11" colspan="4" height="55" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle">
 				<strong>FLASH RAM 
 				Save Type</strong></td>
 			</tr>
@@ -8112,4 +8335,3 @@ Worms Armageddon<br>
 			micro-64.com</a></p>
             
 </body>
-
