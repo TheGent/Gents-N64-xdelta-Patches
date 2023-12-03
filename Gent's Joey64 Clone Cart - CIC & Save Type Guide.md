@@ -1,47 +1,4 @@
 <head>
-<title>Gent's Joey64 Clone Cart - CIC &amp; Save Type Guide</title>
-<style type="text/css">
-.auto-style1 {
-	color: #FFFFFF;
-}
-.auto-style2 {
-	text-align: left;
-}
-.auto-style3 {
-	text-align: center;
-}
-.auto-style4 {
-	text-align: right;
-}
-.auto-style5 {
-	font-weight: bold;
-	text-align: right;
-}
-.auto-style6 {
-	font-weight: bold;
-}
-.auto-style7 {
-	font-weight: bold;
-	text-align: center;
-}
-.auto-style8 {
-	color: #FFFFFF;
-	font-weight: bold;
-}
-.auto-style9 {
-	color: #FFFFFF;
-	font-weight: normal;
-}
-.auto-style10 {
-	border: 1px solid #000000;
-	text-align: center;
-	color: #FFFFFF;
-}
-.auto-style11 {
-	text-align: center;
-	color: #FFFFFF;
-}
-</style>
 </head>
 
 <body>
