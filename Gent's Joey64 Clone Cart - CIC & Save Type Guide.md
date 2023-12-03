@@ -4562,6 +4562,14 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
+				Razor Freestyle Scooter (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" sdnum="2057;" sdval="96" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top">
+				64</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
 				Re-Volt (E)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-7101</td>
@@ -5187,6 +5195,14 @@
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
 				Tony Hawk's Pro Skater 2 (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">
+				128</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
+				Tony Hawk's Pro Skater 3 (U)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-6102</td>
 				<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000">
@@ -6708,7 +6724,7 @@
 		<p class="auto-style2">For Joey64 Clone Cart Flasher: Use<strong>
 		Super Smash Bros.</strong>
 		(Clone Cart) <em>(<strong>256 MBit / 32 MB</strong>) </em><strong>
-		FlashRAM<em> </em>
+		SRAM<em> </em>
 		</strong>
 		Save Type&nbsp;</p>
 		<p class="auto-style2">
@@ -7656,23 +7672,16 @@
 		</td>
 	</tr>
 </table>
-</p>
-              <table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-
   <tr>
           <td style="height: 40px" class="auto-style2">
 		  <h3><strong>Game Save Method List:</strong></h3>
 		  <p>&nbsp;</p>
 		  </td>
+	            This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level.
           </tr>
           
                   
-          <tr>
-            <td id="main">
 
-			<p><span class="auto-style2">This page categorizes the N64 library by what method each game uses to save progress. Unlike most game consoles before it, the N64 has many ways of saving, mostly on a technical level. 
-			</span>
          
 <strong></p>
 			<h3 style="font-family:verdana;">&nbsp;</h3>
