@@ -92,6 +92,24 @@ BLAKE2sp: ad513f5c4411937468960f3b8b830822bfa317e303dee36189a1f53f758248c0
 <br>
 </br>
 
+Name: Getter Love!! - Cho Renai Party Game Tanjou (Japan).z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: 724ECAE7
+
+CRC64: 7B13E5B924A4FB7E
+
+SHA256: d66a9b152d32d96fa1360e23437cfd30da7451e444945984387209fceb3a8ff1
+
+SHA1: 942d161abf00b612486388eee98a2c51fc990147
+
+BLAKE2sp: 8a826d1b8b00720e05b42678038fb785eab4ac2a89b31243005b0ff420d361f8
+
+// This takes the original (J) release file and creates Getter Love!! - Panda Love Unit (E) [NTSC-PAL].z64
+<br>
+</br>
+
 Name: Last Legion UX (J) [!].z64
 Size: 12582912 bytes (12 MiB)
 CRC32: E289EB0A
