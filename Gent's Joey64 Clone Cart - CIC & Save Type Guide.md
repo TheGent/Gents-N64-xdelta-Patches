@@ -11,6 +11,17 @@
 		Save Type Guide</strong></h2>
 		<p class="auto-style2">For use with the Joey64 Flasher and N64 Clone 
 		Carts</p>
+		<p class="auto-style2">The reason Joey64 is so unique and my personal 
+		favourite method to use is that the clone carts can be used with cheat 
+		devices such as;</p>
+		<p class="auto-style2">Action Replay, Equalizer, Gameshark and 
+		Xplorer64.</p>
+		<p class="auto-style2">No other method IE: Flash Carts are able to do so 
+		without damaging either the flash cart or the cheat device.</p>
+		<p class="auto-style2">So be happy in the knowledge that you can use 
+		this method and be able to cheat if you wish just like the original cart 
+		allows.</p>
+		<p class="auto-style2">Happy N64ing!</p>
 		<h3 style="font-size: 16px;">
 		<br />
 		<strong>Game Security CIC List:</strong></h3>
