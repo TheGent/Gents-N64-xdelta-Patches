@@ -1063,7 +1063,7 @@ SHA1: 1fe1632098865f639e22c11b9a81ee8f29c75d7a
 
 BLAKE2sp: 3e8c536ff4744a187bec996a4f87325b01585497bd98a86465dc6c6fbf1bedc1
 
-Creates the folloing below:
+Creates the following below:
 
 //The Legend Of Banjo Kazooie - The Jiggies Of Time (E) [NTSC-PAL] (Hack).z64
 
@@ -1072,6 +1072,26 @@ Creates the folloing below:
 //Banjo-Kazooie - The Bear Waker (E) [NTSC-PAL] (Hack).z64
 
 //Banjo-Kazooie - Gruntilda's Mask (E) [NTSC-PAL] (Hack).z64
+<br>
+</br>
+
+Name: Doom 64 (U) (V1.0) [!].z64
+
+Size: 8388608 bytes (8192 KiB)
+
+CRC32: 5CC1ADE6
+
+CRC64: E25D14A3E5116128
+
+SHA256: d3404a7e8ca9d20ba034651932e67aa90c6c475c5f4738f222cd1e3056df935f
+
+SHA1: 799a588d73da3fcce8031026a8187da92b91c817
+
+BLAKE2sp: fa71c32e16deecabd0ad3a5d79c4652012b1b3fcb4a6fa9806afc0e0176fca44
+
+// This takes the original (U) (V1.0) release file and creates:
+
+//Doom 64 Complete Edition (E) (v1.0) [Full] [NTSC-PAL].z64
 <br>
 </br>
 

@@ -40,6 +40,27 @@ BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
 <br>
 </br>
 
+
+Name: Doom 64 (U) (V1.0) [!].z64
+
+Size: 8388608 bytes (8192 KiB)
+
+CRC32: 5CC1ADE6
+
+CRC64: E25D14A3E5116128
+
+SHA256: d3404a7e8ca9d20ba034651932e67aa90c6c475c5f4738f222cd1e3056df935f
+
+SHA1: 799a588d73da3fcce8031026a8187da92b91c817
+
+BLAKE2sp: fa71c32e16deecabd0ad3a5d79c4652012b1b3fcb4a6fa9806afc0e0176fca44
+
+// This takes the original (U) (V1.0) release file and creates:
+
+//Doom 64 Complete Edition (E) (v1.0) [Full] [NTSC-PAL].z64
+<br>
+</br>
+
 Name: Super Mario 64 (U) [!].z64
 Size: 8388608 bytes (8192 KiB)
 CRC32: 3CE60709
