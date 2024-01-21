@@ -1133,6 +1133,7 @@ BLAKE2sp: 6fe814641a12e42aaefee8e15452bdd4e641479f1c45fd8dece55147bea85b7e
 Creates the folloing below:
 
 //Smash Remix (E) [NTSC-PAL] (v1.3.1) (Hack).z64
+//Smash Remix (E) [NTSC-PAL] (v1.5.0) (Hack).z64
 <br>
 </br>
 
