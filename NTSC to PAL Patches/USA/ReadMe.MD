@@ -1188,6 +1188,8 @@ Creates the following below:
 
 //Super Mario 64 - Sonic Edition (E) [NTSC-PAL] (Hack) (v4.1).z64
 
+//Super Wario 64 (E) [NTSC-PAL].z64
+
 //Totsugeki64 (E) [NTSC-PAL] (Hack).z64
 <br>
 </br>
