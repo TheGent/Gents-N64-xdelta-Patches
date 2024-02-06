@@ -1151,7 +1151,10 @@ SHA1: 579c48e211ae952530ffc8738709f078d5dd215e
 
 BLAKE2sp: dd6f27800c84f47ddff7a199b05b0ba31d042907b808e196bc9411faa180855a
 
+Creates the folloing below:
+
 //Dragon Ball Kart 64 (E) [NTSC-PAL] (Hack).z64
+//Konami Krazy Racers 64 [v1] (E) [NTSC-PAL].z64
 <br>
 </br>
 
