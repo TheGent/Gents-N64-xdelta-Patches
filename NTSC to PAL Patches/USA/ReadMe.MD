@@ -1184,6 +1184,8 @@ Creates the following below:
 
 //Super Mario Odyssey 64  (E) [NTSC-PAL] (Hack) V4.z64
 
+//Super Mario 64 - Junuary Project (U) [V3.4.14] [NTSC-PAL].z64
+
 //Super Mario 64 - Sonic Edition (E) [NTSC-PAL] (Hack) (v4.1).z64
 
 //Totsugeki64 (E) [NTSC-PAL] (Hack).z64
