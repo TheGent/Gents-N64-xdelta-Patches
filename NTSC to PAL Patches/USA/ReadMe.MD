@@ -1111,6 +1111,7 @@ BLAKE2sp: 257efd26063281917e156d613c93d9e402d4a32ef604d1d2cefd10884c6dc42d
 
 Creates the following below:
 
+//GoldenEye Compilation Pack (E) (v1.1) [NTSC-PAL] (Hack).z64
 //Goldeneye 007 - Mario Characters (E) [NTSC-PAL] (v1) (Hack).z64
 //Goldfinger 64 (E) [NTSC-PAL] (v1) (Hack).z64
 <br>
