@@ -989,7 +989,7 @@ SHA1: 887ab588c2ecc64c52fb2065f06b0a1ee4af13dc
 
 BLAKE2sp: ca5e6c0b78f2b3f7538069f78d5d24ae7f9891932e49834c13bf4f73de0c78f8
 
-Creates the folloing below:
+Creates the following below:
 
 //Wave Race 64 (E) (Rev B) (Rumble Edition) [NTSC-PAL].z64
 <br>
@@ -1109,31 +1109,10 @@ SHA1: abe01e4aeb033b6c0836819f549c791b26cfde83
 
 BLAKE2sp: 257efd26063281917e156d613c93d9e402d4a32ef604d1d2cefd10884c6dc42d
 
-Creates the folloing below:
+Creates the following below:
 
 //Goldeneye 007 - Mario Characters (E) [NTSC-PAL] (v1) (Hack).z64
 //Goldfinger 64 (E) [NTSC-PAL] (v1) (Hack).z64
-<br>
-</br>
-
-Name: Super Smash Bros. (U) [!].z64
-
-Size: 16777216 bytes (16 MiB)
-
-CRC32: EB97929E
-
-CRC64: ED6C247C3AFA2E52
-
-SHA256: 15592e79d3c5295cef4371d4992f0bd25bec2102fc29644c93e682f7ea99ef3d
-
-SHA1: e2929e10fccc0aa84e5776227e798abc07cedabf
-
-BLAKE2sp: 6fe814641a12e42aaefee8e15452bdd4e641479f1c45fd8dece55147bea85b7e
-
-Creates the folloing below:
-
-//Smash Remix (E) [NTSC-PAL] (v1.3.1) (Hack).z64
-//Smash Remix (E) [NTSC-PAL] (v1.5.0) (Hack).z64
 <br>
 </br>
 
@@ -1151,10 +1130,28 @@ SHA1: 579c48e211ae952530ffc8738709f078d5dd215e
 
 BLAKE2sp: dd6f27800c84f47ddff7a199b05b0ba31d042907b808e196bc9411faa180855a
 
-Creates the folloing below:
+Creates the following below:
 
 //Dragon Ball Kart 64 (E) [NTSC-PAL] (Hack).z64
 //Konami Krazy Racers 64 [v1] (E) [NTSC-PAL].z64
+<br>
+</br>
+
+Name: Perfect Dark (U) (V1.1) [!].z64
+
+Size: 33554432 bytes (32 MiB)
+
+CRC32: 4C1677F7
+
+CRC64: 9763990916E47645
+
+SHA256: 4e51142acac686d96861cecc58cf7cb7c3b06b21733b7f8ed609a709dc039a21
+
+SHA1: af8788ac4d1a57260eae9c53ffe851fcf2a3319b
+
+BLAKE2sp: 8339963e4d8a79db88d07e9dce0e5f34a8f25fd81b10464883352c01d9de7e73
+
+// This takes the original (U) (V1.1) release file and creates GoldenEye X (E) (v5e) [NTSC-PAL] (Hack).z64
 <br>
 </br>
 
@@ -1191,6 +1188,27 @@ Creates the following below:
 //Super Wario 64 (E) [NTSC-PAL].z64
 
 //Totsugeki64 (E) [NTSC-PAL] (Hack).z64
+<br>
+</br>
+
+Name: Super Smash Bros. (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: EB97929E
+
+CRC64: ED6C247C3AFA2E52
+
+SHA256: 15592e79d3c5295cef4371d4992f0bd25bec2102fc29644c93e682f7ea99ef3d
+
+SHA1: e2929e10fccc0aa84e5776227e798abc07cedabf
+
+BLAKE2sp: 6fe814641a12e42aaefee8e15452bdd4e641479f1c45fd8dece55147bea85b7e
+
+Creates the following below:
+
+//Smash Remix (E) [NTSC-PAL] (v1.3.1) (Hack).z64
+//Smash Remix (E) [NTSC-PAL] (v1.5.0) (Hack).z64
 <br>
 </br>
 
@@ -1232,11 +1250,8 @@ SHA1: d347159808f0374a93cf44cfb6135d8f56279f7b
 
 BLAKE2sp: a2cb160f5b316b68187a219c3e5cab320cf3fcac24e43bec45e65af229ad3201
 
-// This takes the original (U) release file and creates the following below
+// This takes the original (U) release file and creates 007 - The World is Not Enough (E) (Prototype) [NTSC-PAL].z64
 
-//007 - The World is Not Enough (U) (Prototype).z64
-
-//007 - The World is Not Enough (E) (Prototype) [NTSC-PAL].z64
 <p>
 </p>
 
