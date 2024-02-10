@@ -43,6 +43,24 @@ BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
 // This takes the original (U) release file and creates Conker's Bad Fur Day (E) (French-Trans v1.3) [NTSC-PAL].z64
 <br>
 </br>
+
+Name: GoldenEye 007 (U) [!].z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: 3B39740F
+
+CRC64: 4989BFACF420EE28
+
+SHA256: 093130210735c9cc955a707e94fb0254e1ed9a6109acc2b208b782a84f7b3dc5
+
+SHA1: edce696269183482b88799b3d5fd9983c5c23bfa
+
+BLAKE2sp: ec037050d2c550d5182581bf4eec58fa31a453a81fd33df17e9fa73635ecd10f
+
+// This takes the original (U) release file and creates GoldenEye 007 (E) (French-Trans) [NTSC-PAL].z64
+<br>
+</br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
 <p>
 </p>
