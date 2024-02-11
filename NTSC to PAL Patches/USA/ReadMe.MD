@@ -1230,6 +1230,7 @@ SHA1: ad69c91157f6705e8ab06c79fe08aad47bb57ba7
 BLAKE2sp: ca47960e21b30a83660be21552e4806cea9480b8b0e8ae89f6d748a6b9fa945c
 
 //Legend of Zelda, The Missing Link  (E) [NTSC-PAL] (Hack).z64
+//The Legend of Zelda - The Sealed Palace (E) (V1.3) [NTSC-PAL] (Hack).z64
 
 
 ---------------------------------
