@@ -1184,11 +1184,13 @@ Creates the following below:
 
 //Super Mario 64 - Multiplayer Splitscreen (E) [NTSC-PAL] (Hack).z64
 
+//Super Mario 64 - Peach's Fury (E) (v1.1) [NTSC-PAL] (Hack).z64
+
 //Super Mario 64 - Sonic Edition (E) [NTSC-PAL] (Hack) (v4.1).z64
 
 //Super Mario Odyssey 64  (E) [NTSC-PAL] (Hack) V4.z64
 
-//Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64 (For PAL Console)
+//Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64
 
 //Super Wario 64 (E) [NTSC-PAL].z64
 
