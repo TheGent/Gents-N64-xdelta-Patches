@@ -1174,19 +1174,21 @@ BLAKE2sp: 074602c6668c7205b620b4007c72a68d1cb80d4983618935c79a4ed432238eac
 
 Creates the following below:
 
-//Super Mario 64 (Rumble Edition) (E) [NTSC-PAL].z64
-
 //Captain Falcon 64 1.3 (E) [NTSC-PAL] (Hack).z64
-
-//Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64 (For PAL Console)
 
 //Marios Mafia Misadventure (E) [NTSC-PAL] (Hack).z64
 
-//Super Mario Odyssey 64  (E) [NTSC-PAL] (Hack) V4.z64
+//Super Mario 64 (Rumble Edition) (E) [NTSC-PAL].z64
 
 //Super Mario 64 - Junuary Project (U) [V3.4.14] [NTSC-PAL].z64
 
+//Super Mario 64 - Multiplayer Splitscreen (E) [NTSC-PAL] (Hack).z64
+
 //Super Mario 64 - Sonic Edition (E) [NTSC-PAL] (Hack) (v4.1).z64
+
+//Super Mario Odyssey 64  (E) [NTSC-PAL] (Hack) V4.z64
+
+//Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64 (For PAL Console)
 
 //Super Wario 64 (E) [NTSC-PAL].z64
 
