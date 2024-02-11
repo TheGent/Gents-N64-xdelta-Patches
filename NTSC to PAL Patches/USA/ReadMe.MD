@@ -1231,7 +1231,27 @@ BLAKE2sp: ca47960e21b30a83660be21552e4806cea9480b8b0e8ae89f6d748a6b9fa945c
 
 //Legend of Zelda, The Missing Link  (E) [NTSC-PAL] (Hack).z64
 //The Legend of Zelda - The Sealed Palace (E) (V1.3) [NTSC-PAL] (Hack).z64
+<br>
+</br>
 
+Name: Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!].z64
+
+Size: 33554432 bytes (32 MiB)
+
+CRC32: 32120C23
+
+CRC64: 7EAF055613C99C71
+
+SHA256: 49acd3885f13b0730119b78fb970911cc8aba614fe383368015c21565983368d
+
+SHA1: 41b3bdc48d98c48529219919015a1af22f5057c2
+
+BLAKE2sp: 81d58c26c496b8e812bcada9fa8ae1018ba934db6f6100e985a12cebc13eb9a6
+
+//Zelda 64 - Dawn & Dusk (E) (v2.0) [NTSC-PAL] (Hack).z64
+
+<br>
+</br>
 
 ---------------------------------
 
