@@ -543,6 +543,22 @@ BLAKE2sp: 7a79795affa780a7af997bd6d1a473af9be7eecaa2e4ce6b56cb360171985b2f
 <br>
 </br>
 
+Name: Mini Racers (U) (Prototype) [f1] (Beta 1).z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: DD4B7DBC
+
+CRC64: D5FD7213F218B49D
+
+SHA256: fdea14a4695ea898aaa742d9bdeb970d44f9e91210518ca60f18e4cbcf9b60ec
+
+SHA1: 7e883b2ea7c1ba3689fac871ee09a896379bfa41
+
+BLAKE2sp: 9de50c4f85a66f51795ef4a537683c74c385f800c6000d39b4f56abb1efbf8b8
+<br>
+</br>
+
 Name: Monopoly (U) [!].z64
 
 Size: 8388608 bytes (8192 KiB)
