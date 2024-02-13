@@ -42,6 +42,26 @@ SHA1: bbb6666f5014a473747ee4145f036d9fb25d7348
 BLAKE2sp: 599ca8e76be221f03357d157526d663907d8bf61b63e784c32bcaf0b3523dd9a
 
 // This takes the original (U) release file and creates Body Harvest (E) (Spanish-Trans) [NTSC-PAL].z64
+
+<br>
+</br>
+
+Name: Conker's Bad Fur Day (U) [!].z64
+
+Size: 67108864 bytes (64 MiB)
+
+CRC32: CE8CC172
+
+CRC64: 0AB4626F770D09B3
+
+SHA256: 32e6a8b970ec12ac5f782344945aa0c98a193832eefb687529d03bab6948714b
+
+SHA1: 4cbadd3c4e0729dec46af64ad018050eada4f47a
+
+BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
+
+// This takes the original (U) release file and creates Conker Bad Fur Day (E ( v1.1) (Spanish-Trans) [NTSC-PAL].z64
+
 <br>
 </br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
