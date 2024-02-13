@@ -1130,6 +1130,9 @@ Creates the following below:
 //GoldenEye Compilation Pack (E) (v1.1) [NTSC-PAL] (Hack).z64
 //Goldeneye 007 - Mario Characters (E) [NTSC-PAL] (v1) (Hack).z64
 //Goldfinger 64 (E) [NTSC-PAL] (v1) (Hack).z64
+//GoldenEye - The Janus Alternative (E) (NTSC-PAL) (Hack).z64
+//GoldenEye - The K7 Assignment Pack  (E) (v1.1) (NTSC-PAL) (Hack).z64
+//Tomorrow Never Dies 64 Expanded (E) (v07.23) (NTSC-PAL) (Hack).z64
 <br>
 </br>
 
@@ -1153,6 +1156,26 @@ Creates the following below:
 //Konami Krazy Racers 64 [v1] (E) [NTSC-PAL].z64
 //Mario Kart 64 (Amped Up) (E) (v2.97A) [NTSC-PAL].z64
 //Mario Kart 64 (HootingTime) (E) (v1.3a) [NTSC-PAL].z64
+<br>
+</br>
+
+
+Name: Paper Mario (U) [!].z64
+
+Size: 41943040 bytes (40 MiB)
+
+CRC32: A7F5CD7E
+
+CRC64: EDF551D2088D4E68
+
+SHA256: 9ec6d2a5c2fca81ab86312328779fd042b5f3b920bf65df9f6b87b376883cb5b
+
+
+SHA1: 3837f44cda784b466c9a2d99df70d77c322b97a0
+
+BLAKE2sp: 08c43f035d2ad53061a1c21c300e155d519ab91b85edcb43da66b0432861649b
+
+// This takes the original (U) (V1.1) release file and creates Paper Mario - Black pit (E) (v1.3.3) (NTSC-PAL) (Hack).z64
 <br>
 </br>
 
