@@ -24,7 +24,24 @@ Below are a list of the games correct names and format extention to be used with
 
 If the game also has a / AKA Name, rename the file to the first listed one!
 
+<br>
+</br>
 
+Name: Body Harvest (U) [!].z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: FABBDF02
+
+CRC64: 7AD415B0C2D115E5
+
+SHA256: d4b2654d6d903e43454bffdf025eeb4a954d8fafefab64dc5f8cf0e6dd392a74
+
+SHA1: bbb6666f5014a473747ee4145f036d9fb25d7348
+
+BLAKE2sp: 599ca8e76be221f03357d157526d663907d8bf61b63e784c32bcaf0b3523dd9a
+
+// This takes the original (U) release file and creates Body Harvest (E) (Spanish-Trans) [NTSC-PAL].z64
 <br>
 </br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
