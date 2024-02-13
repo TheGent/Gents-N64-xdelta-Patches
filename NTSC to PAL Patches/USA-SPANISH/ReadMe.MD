@@ -98,6 +98,26 @@ SHA1: 579c48e211ae952530ffc8738709f078d5dd215e
 BLAKE2sp: dd6f27800c84f47ddff7a199b05b0ba31d042907b808e196bc9411faa180855a
 
 // This takes the original (U) release file and creates Mario Kart 64 (E) (Spanish-Trans) [NTSC-PAL].z64
+
+<br>
+</br>
+
+Name: Super Mario 64 (U) [!].z64
+
+Size: 8388608 bytes (8192 KiB)
+
+CRC32: 3CE60709
+
+CRC64: 3A386557772EC47C
+
+SHA256: 17ce077343c6133f8c9f2d6d6d9a4ab62c8cd2aa57c40aea1f490b4c8bb21d91
+
+SHA1: 9bef1128717f958171a4afac3ed78ee2bb4e86ce
+
+BLAKE2sp: 074602c6668c7205b620b4007c72a68d1cb80d4983618935c79a4ed432238eac
+
+// This takes the original (U) release file and creates Super Mario 64 (E) (v.3.9) (Spanish-Trans) [Rumble-Edition] [NTSC-PAL].z64
+
 <br>
 </br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
