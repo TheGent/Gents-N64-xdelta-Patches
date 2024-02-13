@@ -79,6 +79,25 @@ SHA1: de4db292cc6cf5dd1dd1d3c9700cf8e5c3078410
 BLAKE2sp: 57a8acfeec51fb40e4d7b25e017ad7ff004f6862688be6a089bc4c298b83fcb6
 
 // This takes the original (U) release file and creates Duke Nukem - ZER0 H0UR (E) (Spanish-Trans) [NTSC-PAL].z64
+
+<br>
+</br>
+
+Name: Mario Kart 64 (U) [!].z64
+
+Size: 12582912 bytes (12 MiB)
+
+CRC32: 434389C1
+
+CRC64: 2EF96C699B0117E9
+
+SHA256: d6b8538dd63f0132ecb2856e7d32816ed3c30e3e479aecd23cf83fb6ba17a5da
+
+SHA1: 579c48e211ae952530ffc8738709f078d5dd215e
+
+BLAKE2sp: dd6f27800c84f47ddff7a199b05b0ba31d042907b808e196bc9411faa180855a
+
+// This takes the original (U) release file and creates Mario Kart 64 (E) (Spanish-Trans) [NTSC-PAL].z64
 <br>
 </br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
