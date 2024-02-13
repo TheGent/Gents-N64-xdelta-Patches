@@ -61,7 +61,24 @@ SHA1: 4cbadd3c4e0729dec46af64ad018050eada4f47a
 BLAKE2sp: 2ee7013723fe2258a2b1d08fb97b819d9c07ecd12f1418f73e3c163bc83f30d9
 
 // This takes the original (U) release file and creates Conker Bad Fur Day (E ( v1.1) (Spanish-Trans) [NTSC-PAL].z64
+<br>
+</br>
 
+Name: Duke Nukem - ZER0 H0UR (U) [!].z64
+
+Size: 33554432 bytes (32 MiB)
+
+CRC32: 9A3258D7
+
+CRC64: A5D260EF1359A105
+
+SHA256: 5ba016567c53b0d111eb175347c6eee603c31783cd2bb3fea97f31b5ff74190f
+
+SHA1: de4db292cc6cf5dd1dd1d3c9700cf8e5c3078410
+
+BLAKE2sp: 57a8acfeec51fb40e4d7b25e017ad7ff004f6862688be6a089bc4c298b83fcb6
+
+// This takes the original (U) release file and creates Duke Nukem - ZER0 H0UR (E) (Spanish-Trans) [NTSC-PAL].z64
 <br>
 </br>
 I hope you enjoy playing these games on your Flashcart via your PAL Console as much i did.
