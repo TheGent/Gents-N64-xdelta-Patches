@@ -1227,6 +1227,8 @@ Creates the following below:
 
 //Super Mario 64 - Sonic Edition (E) [NTSC-PAL] (Hack) (v4.1).z64
 
+//Super Mario 64 - Star Road. (E) (v1.0) [NTSC-PAL] - (17 July 2023).z64
+
 //Super Mario Odyssey 64  (E) [NTSC-PAL] (Hack) V4.z64
 
 //Super Ice 64 (E) REV 7 [NTSC-PAL] (Hack).z64
