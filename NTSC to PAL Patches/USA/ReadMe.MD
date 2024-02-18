@@ -1111,6 +1111,23 @@ BLAKE2sp: fa71c32e16deecabd0ad3a5d79c4652012b1b3fcb4a6fa9806afc0e0176fca44
 <br>
 </br>
 
+Name: F-ZERO X (U) [!].z64
+
+Size: 16777216 bytes (16 MiB)
+
+CRC32: 0B561FBA
+
+CRC64: AEE1A03704C17929
+
+SHA256: 2be0f861c30752bbdfa727753a454108bc973c27ad814744f191b1278c1f482d
+
+SHA1: 5f658e88ffa9de23cba6986a8fd3d3a90d7b4340
+
+BLAKE2sp: e71804d40c2b77098ed7f429209af2d3da44966002fd50e952561bda40ca2f23
+
+
+// This takes the original (U)  release file and creates F-ZERO X - Climax by Philippe Brodier  (E) (V1.1) [NTSC-PAL ](Hack).z64
+
 Name: GoldenEye 007 (U) [!].z64
 
 Size: 12582912 bytes (12 MiB)
@@ -1175,7 +1192,10 @@ SHA1: 3837f44cda784b466c9a2d99df70d77c322b97a0
 
 BLAKE2sp: 08c43f035d2ad53061a1c21c300e155d519ab91b85edcb43da66b0432861649b
 
-// This takes the original (U) (V1.1) release file and creates Paper Mario - Black pit (E) (v1.3.3) (NTSC-PAL) (Hack).z64
+Creates the following below:
+
+//Paper Mario - Black pit (E) (v1.3.3) (NTSC-PAL) (Hack).z64
+//Paper Mario 64 - The Thousand Year Door (E) (V1,0) (NTSC-PAL) (Hack).z64
 <br>
 </br>
 
@@ -1218,6 +1238,8 @@ Creates the following below:
 //Marios Mafia Misadventure (E) [NTSC-PAL] (Hack).z64
 
 //Super Mario 64 (Rumble Edition) (E) [NTSC-PAL].z64
+
+//Super Mario 64 - Beyond the Cursed Mirror (E) (V1.3.1) [NTSC-PAL] (Hack).z64
 
 //Super Mario 64 - Junuary Project (U) [V3.4.14] [NTSC-PAL].z64
 
