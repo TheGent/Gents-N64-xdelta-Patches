@@ -22,6 +22,10 @@
 		this method and be able to cheat if you wish just like the original cart 
 		allows.</p>
 		<p class="auto-style2">Happy N64ing!</p>
+		<p class="auto-style2"><span class="auto-style2">If you would like to join me on My Dev Discord Server:
+		<a href="https://discord.com/channels/713716215717036034/965000874554425404" target="_blank">
+		<strong>Gents-N64-xdelta-Patches Dev Channel.</strong></a> 
+		you can keep up to date with real-time github & dev notifications, Exclusive previews & Request (Within reason </span></p>
 		<h3 style="font-size: 16px;">
 		<br />
 		<strong>Game Security CIC List:</strong></h3>
