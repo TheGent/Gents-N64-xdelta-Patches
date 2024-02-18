@@ -24,12 +24,6 @@
 		<p class="auto-style2">Happy N64ing!</p>
 		<h3 style="font-size: 16px;">
 		<br />
-		
-		<p <span class="auto-style2">If you would like to join me on My Dev Discord Server:
-		<a href="https://discord.com/channels/713716215717036034/965000874554425404" target="_blank">
-		<strong>Gents-N64-xdelta-Patches Dev Channel.</strong></a> 
-		you can keep up to date with real-time github & dev notifications, Exclusive previews & Request (Within reason </span></p>
-		
 		<strong>Game Security CIC List:</strong></h3>
 		This page categorizes the N64 library by what CIC security chip it 
 		uses. The CIC in an N64 cartridge is simply a means of preventing 
