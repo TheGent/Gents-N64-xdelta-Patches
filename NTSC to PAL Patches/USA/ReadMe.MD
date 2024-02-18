@@ -1172,6 +1172,7 @@ Creates the following below:
 //Dragon Ball Kart 64 (E) [NTSC-PAL] (Hack).z64
 //Konami Krazy Racers 64 [v1] (E) [NTSC-PAL].z64
 //Mario Kart 64 (Amped Up) (E) (v2.97A) [NTSC-PAL].z64
+//Mario Kart 64 (Amped Up) (E) (v2.98) [NTSC-PAL] (Hack).z64
 //Mario Kart 64 (HootingTime) (E) (v1.3a) [NTSC-PAL].z64
 <br>
 </br>
