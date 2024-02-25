@@ -49,7 +49,7 @@ PAL CONSOLE (To be used with a PAL Console Only)
 - (JU) (USA/JAPAN NES Games on a PAL N64 System)
 - (U) (USA  NES Games on a PAL N64 System)
 
-I would like to thank [Adam Gashlin](http://xdelta.org/) for the [neon64](https://hcs64.com/neon64.html) project!
+I would like to thank [Adam Gashlin](https://github.com/hcs64) for the [neon64](https://hcs64.com/neon64.html) project!
 Without it, these patches to play NES on N64 would not have been possible.
 
 Thank you very much Adam
