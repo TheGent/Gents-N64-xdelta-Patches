@@ -3338,14 +3338,6 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
-				Ken Griffey Jr.'s Slugfest (U)</td>
-				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
-				CIC-NUS-6102</td>
-				<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top">
-				&nbsp;</td>
-			</tr>
-			<tr>
-				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
 				King Hill 64 - Extreme Snowboarding (J)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-6102</td>
@@ -7080,6 +7072,16 @@
 				<b>Save Type</b></td>
 				<td align="center" bgcolor="#CCCCCC" style="border: 1px solid #000000; width: 144px; height: 36px;" valign="middle">
 				<b>Image Size</b></td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 294px;">
+				Ken Griffey Jr.'s Slugfest (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 129px;" valign="top">
+				CIC-NUS-6103</td>
+				<td align="center" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top">
+				FlashRAM</td>
+				<td align="center" sdnum="2057;0;0" sdval="320" style="border: 1px solid #000000; width: 144px;" valign="top">
+				128</td>
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 294px;">
