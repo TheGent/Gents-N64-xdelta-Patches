@@ -4010,6 +4010,14 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
+				NFL Blitz - Special Edition (U)</td>
+				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
+				CIC-NUS-6102</td>
+				<td align="center" sdnum="2057;" sdval="128" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="top">
+				128</td>
+			</tr>
+			<tr>
+				<td align="left" height="26" style="border: 1px solid #000000; width: 528px;">
 				NFL Blitz 2000 (U)</td>
 				<td align="center" style="border: 1px solid #000000; width: 152px;" valign="top">
 				CIC-NUS-6102</td>
@@ -8313,3 +8321,4 @@ Worms Armageddon<br>
 			micro-64.com</a></p>
             
 </body>
+
