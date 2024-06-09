@@ -49,6 +49,7 @@ BLAKE2sp: 4bc69dc8e6800ee5a0fbebe4f2a437a5756402af9f703f843f07f7518c3a4dbf
 // This takes the original (CHN) Patch release file and creates the following:
 
 // The Legend of Zelda Ocarina of Time (CHN) [SaveFix].z64
+
 // The Legend of Zelda Ocarina of Time (CHN) (PAL) [SaveFix].z64
 
 // This restores the saving function to the game. A really big thank you to both nekokabu & Parasyte for their invaluable help in creating this, it would not have been possible without them.
@@ -74,6 +75,7 @@ BLAKE2sp: 70e5d1ad89c69ebabb542caa382d4498019b7b04ed92132a71a9487f165765a7
 // This takes the original (CHN) Patch release file and creates the following:
 
 //Paper Mario (CHN) [f1].z64
+
 //Paper Mario (CHN) (PAL) [f1].z64
 <br>
 </br>
@@ -97,10 +99,12 @@ BLAKE2sp: 475009b61811009255faaaf9f432e33469b1db9d906bce3c6972e8441a5c5a60
 // This takes the original (CHN) Patch release file and creates the following;
 
 
-// Yoshi's Story (CHN) [f1].z64
+// Yoshi's Story (CHN) [f1].
+
 // Yoshi's Story (CHN) [f2].z64
 
 // Yoshi's Story (CHN) [f1] has been updated due to an issue raised by ONIC3D [Here](https://github.com/TheGent/Gents-N64-xdelta-Patches/issues/1). Thank you SONIC3D!
+
 // Yoshi's Story (CHN) [f2] is in case your version does not work with [f1]. 
 <br>
 </br>
