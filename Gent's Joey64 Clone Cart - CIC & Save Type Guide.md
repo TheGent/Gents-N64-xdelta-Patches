@@ -7439,15 +7439,14 @@
 				EEPROM (16 Kbits)</td>
 				<td align="center" sdnum="2057;" sdval="512" style="border: 1px solid #000000; width: 115px;">
 				512</td>
-			</tr>
-			
+			</tr>			
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 465px;">
 				Donkey Kong 64 (E)</td>
 				<td align="center" style="border: 1px solid #000000; width: 143px;">
 				CIC-NUS-7105</td>
 				<td align="center" style="border: 1px solid #000000; width: 119px;" valign="top">
-				SRAM</td>
+				EEPROM (16 Kbits)</td>
 				<td align="center" sdnum="2057;0;0" sdval="256" style="border: 1px solid #000000; width: 110px;" valign="top">
 				256</td>
 			</tr>
@@ -7457,7 +7456,7 @@
 				<td align="center" style="border: 1px solid #000000; width: 143px;">
 				CIC-NUS-6105</td>
 				<td align="center" style="border: 1px solid #000000; width: 119px;" valign="top">
-				SRAM</td>
+				EEPROM (16 Kbits)</td>
 				<td align="center" sdnum="2057;0;0" sdval="256" style="border: 1px solid #000000; width: 110px;" valign="top">
 				256</td>
 			</tr>
@@ -7467,7 +7466,7 @@
 				<td align="center" style="border: 1px solid #000000; width: 143px;">
 				CIC-NUS-6105</td>
 				<td align="center" style="border: 1px solid #000000; width: 119px;" valign="top">
-				SRAM</td>
+				EEPROM (16 Kbits)</td>
 				<td align="center" sdnum="2057;0;0" sdval="256" style="border: 1px solid #000000; width: 110px;" valign="top">
 				256</td>
 			</tr>
