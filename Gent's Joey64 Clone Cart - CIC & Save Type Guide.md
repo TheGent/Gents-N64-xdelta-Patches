@@ -7536,36 +7536,6 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="border: 1px solid #000000; width: 465px;">
-				Donkey Kong 64 (E)</td>
-				<td align="center" style="border: 1px solid #000000; width: 143px;">
-				CIC-NUS-7105</td>
-				<td align="center" style="border: 1px solid #000000; width: 119px;" valign="top">
-				SRAM</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="border: 1px solid #000000; width: 110px;" valign="top">
-				256</td>
-			</tr>
-			<tr>
-				<td align="left" height="26" style="border: 1px solid #000000; width: 465px;">
-				Donkey Kong 64 (J)</td>
-				<td align="center" style="border: 1px solid #000000; width: 143px;">
-				CIC-NUS-6105</td>
-				<td align="center" style="border: 1px solid #000000; width: 119px;" valign="top">
-				SRAM</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="border: 1px solid #000000; width: 110px;" valign="top">
-				256</td>
-			</tr>
-			<tr>
-				<td align="left" height="26" style="border: 1px solid #000000; width: 465px;">
-				Donkey Kong 64 (U)</td>
-				<td align="center" style="border: 1px solid #000000; width: 143px;">
-				CIC-NUS-6105</td>
-				<td align="center" style="border: 1px solid #000000; width: 119px;" valign="top">
-				SRAM</td>
-				<td align="center" sdnum="2057;0;0" sdval="256" style="border: 1px solid #000000; width: 110px;" valign="top">
-				256</td>
-			</tr>
-			<tr>
-				<td align="left" height="26" style="border: 1px solid #000000; width: 465px;">
 				The Legend of Zelda - Ocarina of Time (E) (V1.0)</td>
 				<td align="center" style="border: 1px solid #000000; width: 143px;" valign="top">
 				CIC-NUS-7105</td>
