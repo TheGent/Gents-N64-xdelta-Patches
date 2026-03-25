@@ -879,26 +879,6 @@
 			</tr>
 			<tr>
 				<td align="left" height="26" style="width: 406px;" class="auto-style6">
-				Lylat Wars (A)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
-				CIC-NUS-7102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
-				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
-				96</td>
-			</tr>
-			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style6">
-				Lylat Wars (E)</td>
-				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
-				CIC-NUS-7102</td>
-				<td align="center" style="width: 164px;" valign="top" class="auto-style6">
-				EEPROM (4 Kbits)</td>
-				<td align="center" sdnum="2057;0;0" sdval="96" style="width: 129px;" valign="top" class="auto-style6">
-				96</td>
-			</tr>
-			<tr>
-				<td align="left" height="26" style="width: 406px;" class="auto-style6">
 				Mario Kart 64 (E) (V1.0)</td>
 				<td align="center" style="width: 137px;" valign="top" class="auto-style6">
 				CIC-NUS-7101</td>
