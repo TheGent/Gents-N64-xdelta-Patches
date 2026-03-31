@@ -1,8 +1,8 @@
 # NTSC-(E)-NES-NEON64 Converted Patches for the NTSC N64 Console.
 
-Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and for ease of use [xdeltaUI](https://www.romhacking.net/utilities/598/) The Windows FrontEnd.
+Here are Patches for use with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/) xdeleta tool.
 
-Make sure your Games are the correct name and file type before patching!
+Make sure your Games are the correct name and file type before patching! And remember to enable Backup original file so it creates Game name - CopyPATCHED.z64
 
 Please check the ReadMe in that section for further information.
 
