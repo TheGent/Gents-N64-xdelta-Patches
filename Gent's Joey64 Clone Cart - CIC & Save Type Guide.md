@@ -7499,11 +7499,7 @@
 		CIC-NUS-7105 (PAL) SRAM</h3>
 		</strong>
 		<p class="auto-style2">For Joey64 Clone Cart Flasher: Use<strong>
-		<strong>
-		Donkey Kong 64</strong> or
-		<strong>
 		The Legend of Zelda - Ocarina of Time
-		</strong>
 		</strong>
 		(Clone Cart)<strong>
 		<em>(256 MBit / 32 MB) SRAM&nbsp; </em>
@@ -7511,7 +7507,8 @@
 		Save Type</p>
 		<strong>
 		<p class="auto-style2">
-		<span class="auto-style2">There is only 2 games that used this.</span></p>
+		<span class="auto-style2">There is only 1 official game that used this. 
+		But there are many many Rom Hacks to choose from these days!</span></p>
 		<h3 class="auto-style2">
 		&nbsp;</h3>
 		<p class="auto-style2">
